@@ -1,0 +1,201 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <title>Medical Image Captioning Results</title>
+        <style>
+            body { font-family: Arial, sans-serif; margin: 20px; }
+            .sample { margin-bottom: 30px; border: 1px solid #ddd; padding: 15px; border-radius: 5px; }
+            .sample img { max-width: 100%; max-height: 300px; }
+            .captions { margin-top: 10px; }
+            .generated { color: #2c6fbb; }
+            .reference { color: #2a9d8f; }
+            h2 { color: #333; }
+        </style>
+    </head>
+    <body>
+        <h1>Medical Image Captioning Results</h1>
+    
+        <div class="sample">
+            <h2>Sample 1</h2>
+            <img src="samples/sample_1.png" alt="Medical Image">
+            <div class="captions">
+                <p class="generated"><strong>Generated:</strong> al chest x-ray showing No acute cardiopulmonary abnormality.</p>
+                <p class="reference"><strong>Reference:</strong> Frontal chest x-ray showing 1. No acute cardiopulmonary findings.</p>
+            </div>
+        </div>
+        
+        <div class="sample">
+            <h2>Sample 2</h2>
+            <img src="samples/sample_2.png" alt="Medical Image">
+            <div class="captions">
+                <p class="generated"><strong>Generated:</strong> al chest x-ray showing No acute cardiopulmonary findings.</p>
+                <p class="reference"><strong>Reference:</strong> Frontal chest x-ray showing No acute pulmonary disease.</p>
+            </div>
+        </div>
+        
+        <div class="sample">
+            <h2>Sample 3</h2>
+            <img src="samples/sample_3.png" alt="Medical Image">
+            <div class="captions">
+                <p class="generated"><strong>Generated:</strong> al chest x-ray showing No acute cardiopulmonary abnormality.</p>
+                <p class="reference"><strong>Reference:</strong> Frontal chest x-ray showing 1. No evidence of active disease.</p>
+            </div>
+        </div>
+        
+        <div class="sample">
+            <h2>Sample 4</h2>
+            <img src="samples/sample_4.png" alt="Medical Image">
+            <div class="captions">
+                <p class="generated"><strong>Generated:</strong> ateral chest x-ray showing 1. No evidence of active disease.</p>
+                <p class="reference"><strong>Reference:</strong> Lateral chest x-ray showing No acute cardiopulmonary findings.</p>
+            </div>
+        </div>
+        
+        <div class="sample">
+            <h2>Sample 5</h2>
+            <img src="samples/sample_5.png" alt="Medical Image">
+            <div class="captions">
+                <p class="generated"><strong>Generated:</strong> al chest x-ray showing No acute cardiopulmonary abnormality.</p>
+                <p class="reference"><strong>Reference:</strong> Frontal chest x-ray showing 1. No acute cardiopulmonary abnormality. 2. Hyperlucent lungs, XXXX related to cachexia and probable pectus excavatum deformity.</p>
+            </div>
+        </div>
+        
+        <div class="sample">
+            <h2>Sample 6</h2>
+            <img src="samples/sample_6.png" alt="Medical Image">
+            <div class="captions">
+                <p class="generated"><strong>Generated:</strong> ateral chest x-ray showing No acute cardiopulmonary abnormality.</p>
+                <p class="reference"><strong>Reference:</strong> Lateral chest x-ray showing No acute cardiopulmonary abnormality.</p>
+            </div>
+        </div>
+        
+        <div class="sample">
+            <h2>Sample 7</h2>
+            <img src="samples/sample_7.png" alt="Medical Image">
+            <div class="captions">
+                <p class="generated"><strong>Generated:</strong> ateral chest x-ray showing No acute cardiopulmonary abnormality.</p>
+                <p class="reference"><strong>Reference:</strong> Lateral chest x-ray showing No acute process.</p>
+            </div>
+        </div>
+        
+        <div class="sample">
+            <h2>Sample 8</h2>
+            <img src="samples/sample_8.png" alt="Medical Image">
+            <div class="captions">
+                <p class="generated"><strong>Generated:</strong> al chest x-ray showing No evidence of active disease.</p>
+                <p class="reference"><strong>Reference:</strong> Frontal chest x-ray showing XXXX left lower lobe airspace disease.</p>
+            </div>
+        </div>
+        
+        <div class="sample">
+            <h2>Sample 9</h2>
+            <img src="samples/sample_9.png" alt="Medical Image">
+            <div class="captions">
+                <p class="generated"><strong>Generated:</strong> al chest x-ray showing No acute cardiopulmonary abnormalities.</p>
+                <p class="reference"><strong>Reference:</strong> Frontal chest x-ray showing 1. Emphysematous change without evidence of acute cardiopulmonary process.</p>
+            </div>
+        </div>
+        
+        <div class="sample">
+            <h2>Sample 10</h2>
+            <img src="samples/sample_10.png" alt="Medical Image">
+            <div class="captions">
+                <p class="generated"><strong>Generated:</strong> al chest x-ray showing No acute cardiopulmonary abnormality.</p>
+                <p class="reference"><strong>Reference:</strong> Frontal chest x-ray showing Cardiomegaly with mild bibasilar infiltrates versus atelectasis.</p>
+            </div>
+        </div>
+        
+        <div class="sample">
+            <h2>Sample 11</h2>
+            <img src="samples/sample_11.png" alt="Medical Image">
+            <div class="captions">
+                <p class="generated"><strong>Generated:</strong> al chest x-ray showing 1. No acute pulmonary abnormality.</p>
+                <p class="reference"><strong>Reference:</strong> Frontal chest x-ray showing Chronic lung disease without acute findings.</p>
+            </div>
+        </div>
+        
+        <div class="sample">
+            <h2>Sample 12</h2>
+            <img src="samples/sample_12.png" alt="Medical Image">
+            <div class="captions">
+                <p class="generated"><strong>Generated:</strong> ateral chest x-ray showing No acute cardiopulmonary findings. .</p>
+                <p class="reference"><strong>Reference:</strong> Lateral chest x-ray showing No acute cardiopulmonary findings</p>
+            </div>
+        </div>
+        
+        <div class="sample">
+            <h2>Sample 13</h2>
+            <img src="samples/sample_13.png" alt="Medical Image">
+            <div class="captions">
+                <p class="generated"><strong>Generated:</strong> al chest x-ray showing Stable cardiomegaly without acute cardiopulmonary abnormality.</p>
+                <p class="reference"><strong>Reference:</strong> Frontal chest x-ray showing Bibasilar airspace disease and bilateral pleural fluid.</p>
+            </div>
+        </div>
+        
+        <div class="sample">
+            <h2>Sample 14</h2>
+            <img src="samples/sample_14.png" alt="Medical Image">
+            <div class="captions">
+                <p class="generated"><strong>Generated:</strong> ateral chest x-ray showing No acute cardiopulmonary findings.</p>
+                <p class="reference"><strong>Reference:</strong> Lateral chest x-ray showing 1. No acute cardiopulmonary findings.</p>
+            </div>
+        </div>
+        
+        <div class="sample">
+            <h2>Sample 15</h2>
+            <img src="samples/sample_15.png" alt="Medical Image">
+            <div class="captions">
+                <p class="generated"><strong>Generated:</strong> al chest x-ray showing No acute cardiopulmonary abnormality.</p>
+                <p class="reference"><strong>Reference:</strong> Frontal chest x-ray showing No acute cardiopulmonary abnormality..</p>
+            </div>
+        </div>
+        
+        <div class="sample">
+            <h2>Sample 16</h2>
+            <img src="samples/sample_16.png" alt="Medical Image">
+            <div class="captions">
+                <p class="generated"><strong>Generated:</strong> al chest x-ray showing Cardiomegaly with pulmonary vascular congestion.</p>
+                <p class="reference"><strong>Reference:</strong> Frontal chest x-ray showing Persistent cardiomegaly and patchy bibasilar interstitial disease.</p>
+            </div>
+        </div>
+        
+        <div class="sample">
+            <h2>Sample 17</h2>
+            <img src="samples/sample_17.png" alt="Medical Image">
+            <div class="captions">
+                <p class="generated"><strong>Generated:</strong> al chest x-ray showing No acute cardiopulmonary abnormality.</p>
+                <p class="reference"><strong>Reference:</strong> Frontal chest x-ray showing No acute cardiopulmonary abnormality.</p>
+            </div>
+        </div>
+        
+        <div class="sample">
+            <h2>Sample 18</h2>
+            <img src="samples/sample_18.png" alt="Medical Image">
+            <div class="captions">
+                <p class="generated"><strong>Generated:</strong> al chest x-ray showing No acute cardiopulmonary findings. .</p>
+                <p class="reference"><strong>Reference:</strong> Frontal chest x-ray showing 1. No acute cardiopulmonary process. 2. Stable right middle lobe bronchiectasis, XXXX postinfectious/postinflammatory. .</p>
+            </div>
+        </div>
+        
+        <div class="sample">
+            <h2>Sample 19</h2>
+            <img src="samples/sample_19.png" alt="Medical Image">
+            <div class="captions">
+                <p class="generated"><strong>Generated:</strong> ateral chest x-ray showing No acute cardiopulmonary abnormalities.</p>
+                <p class="reference"><strong>Reference:</strong> Lateral chest x-ray showing 1. Chest. Large nodule at the right lung base that probably represents a granuloma although not it is not densely calcified. A low KV P chest radiograph can be obtained for confirmation as a there are no comparison studies available in the XXXX. If the patient has an outside chest radiograph, comparison can be XXXX and the report addended. 2. Ribs. Normal. Critical result notification documented through Primordial. If there are questions regarding this interpretation, please XXXX XXXX.</p>
+            </div>
+        </div>
+        
+        <div class="sample">
+            <h2>Sample 20</h2>
+            <img src="samples/sample_20.png" alt="Medical Image">
+            <div class="captions">
+                <p class="generated"><strong>Generated:</strong> ateral chest x-ray showing No acute cardiopulmonary findings. .</p>
+                <p class="reference"><strong>Reference:</strong> Lateral chest x-ray showing 1. No evidence of active disease.</p>
+            </div>
+        </div>
+        
+    </body>
+    </html>
+    

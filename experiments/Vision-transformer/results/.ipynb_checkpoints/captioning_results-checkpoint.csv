@@ -1,0 +1,970 @@
+image_idx,generated_caption,reference_caption
+0,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing 1. No acute cardiopulmonary findings.
+1,al chest x-ray showing No acute cardiopulmonary findings.,Frontal chest x-ray showing No acute pulmonary disease.
+2,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing 1. No evidence of active disease.
+3,ateral chest x-ray showing 1. No evidence of active disease.,Lateral chest x-ray showing No acute cardiopulmonary findings.
+4,al chest x-ray showing No acute cardiopulmonary abnormality.,"Frontal chest x-ray showing 1. No acute cardiopulmonary abnormality. 2. Hyperlucent lungs, XXXX related to cachexia and probable pectus excavatum deformity."
+5,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing No acute cardiopulmonary abnormality.
+6,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing No acute process.
+7,al chest x-ray showing No evidence of active disease.,Frontal chest x-ray showing XXXX left lower lobe airspace disease.
+8,al chest x-ray showing No acute cardiopulmonary abnormalities.,Frontal chest x-ray showing 1. Emphysematous change without evidence of acute cardiopulmonary process.
+9,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing Cardiomegaly with mild bibasilar infiltrates versus atelectasis.
+10,al chest x-ray showing 1. No acute pulmonary abnormality.,Frontal chest x-ray showing Chronic lung disease without acute findings.
+11,ateral chest x-ray showing No acute cardiopulmonary findings. .,Lateral chest x-ray showing No acute cardiopulmonary findings
+12,al chest x-ray showing Stable cardiomegaly without acute cardiopulmonary abnormality.,Frontal chest x-ray showing Bibasilar airspace disease and bilateral pleural fluid.
+13,ateral chest x-ray showing No acute cardiopulmonary findings.,Lateral chest x-ray showing 1. No acute cardiopulmonary findings.
+14,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing No acute cardiopulmonary abnormality..
+15,al chest x-ray showing Cardiomegaly with pulmonary vascular congestion.,Frontal chest x-ray showing Persistent cardiomegaly and patchy bibasilar interstitial disease.
+16,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing No acute cardiopulmonary abnormality.
+17,al chest x-ray showing No acute cardiopulmonary findings. .,"Frontal chest x-ray showing 1. No acute cardiopulmonary process. 2. Stable right middle lobe bronchiectasis, XXXX postinfectious/postinflammatory. ."
+18,ateral chest x-ray showing No acute cardiopulmonary abnormalities.,"Lateral chest x-ray showing 1. Chest. Large nodule at the right lung base that probably represents a granuloma although not it is not densely calcified. A low KV P chest radiograph can be obtained for confirmation as a there are no comparison studies available in the XXXX. If the patient has an outside chest radiograph, comparison can be XXXX and the report addended. 2. Ribs. Normal. Critical result notification documented through Primordial. If there are questions regarding this interpretation, please XXXX XXXX."
+19,ateral chest x-ray showing No acute cardiopulmonary findings. .,Lateral chest x-ray showing 1. No evidence of active disease.
+20,ateral chest x-ray showing No acute cardiopulmonary abnormalities.,Lateral chest x-ray showing Borderline enlargement of the cardiac silhouette without acute pulmonary disease.
+21,al chest x-ray showing No acute disease.,Frontal chest x-ray showing At XXXX 2 right lung pulmonary nodules concerning for<BR>metastatic disease
+22,al chest x-ray showing No acute cardiopulmonary abnormality. .,Frontal chest x-ray showing Negative for acute abnormality. Discrete XXXX projectile not seen.
+23,al chest x-ray showing No active disease.,Frontal chest x-ray showing No acute cardiopulmonary findings.
+24,al chest x-ray showing No acute findings,Frontal chest x-ray showing No acute abnormality.
+25,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing No acute cardiopulmonary abnormalities. Stable chronic lung disease. .
+26,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing No acute cardiopulmonary abnormality.
+27,ateral chest x-ray showing No acute findings.,Lateral chest x-ray showing No acute cardiopulmonary process.
+28,ateral chest x-ray showing No acute cardiopulmonary disease.,Lateral chest x-ray showing Negative chest x-XXXX.
+29,ateral chest x-ray showing No acute cardiopulmonary findings.,Lateral chest x-ray showing No acute preoperative findings.
+30,al chest x-ray showing No acute cardiopulmonary findings.,Frontal chest x-ray showing No acute cardiopulmonary abnormalities.
+31,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing 1. No acute cardiopulmonary disease.
+32,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing No acute cardiopulmonary abnormalities.
+33,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing No acute cardiopulmonary abnormality.
+34,ateral chest x-ray showing No acute pulmonary disease.,"Lateral chest x-ray showing Borderline cardiomegaly, otherwise unremarkable exam."
+35,ateral chest x-ray showing No acute cardiopulmonary findings. .,Lateral chest x-ray showing 1. Low lung volumes with subsequent bronchovascular crowding and bibasilar atelectasis. .
+36,ateral chest x-ray showing No acute cardiopulmonary disease.,Lateral chest x-ray showing Negative.
+37,al chest x-ray showing No acute cardiopulmonary abnormality. .,"Frontal chest x-ray showing 1. Cardiomegaly and small bilateral pleural effusions 2. Abnormal pulmonary opacities most suggestive of pulmonary edema, primary differential diagnosis includes infection and aspiration, clinical correlation recommended"
+38,al chest x-ray showing No acute cardiopulmonary findings. .,Frontal chest x-ray showing 1. No acute pulmonary abnormality.
+39,ateral chest x-ray showing 1. No evidence of active disease.,"Lateral chest x-ray showing 1. Severe emphysema. 2. Irregular, pleural-parenchymal opacity in left upper lobe. This may irregular pleural-parenchymal scarring, however, recommend comparison with more remote outside imaging, if available to determine long-term stability. If none are available, recommend short-term XXXX in 3 to 4 months. Evaluation of coronal and sagittal reformatted images from the outside study would also be helpful. These were not XXXX available at the outside institution. Malignancy cannot be confidently excluded on the available images."
+40,ateral chest x-ray showing No acute cardiopulmonary findings.,Lateral chest x-ray showing Low lung volumes without acute cardiopulmonary findings.
+41,al chest x-ray showing No acute cardiopulmonary findings. .,Frontal chest x-ray showing No acute cardiopulmonary abnormality. .
+42,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing No acute preoperative findings.
+43,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing No acute cardiopulmonary abnormality.
+44,ateral chest x-ray showing No acute cardiopulmonary abnormalities.,Lateral chest x-ray showing No acute cardiopulmonary finding.
+45,ateral chest x-ray showing No acute findings,Lateral chest x-ray showing No acute findings
+46,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing Clear lungs.
+47,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing No acute cardiopulmonary disease
+48,al chest x-ray showing No acute cardiopulmonary abnormalities.,Frontal chest x-ray showing 1. No acute intrathoracic abnormality.
+49,al chest x-ray showing No acute cardiopulmonary abnormalities.,"Frontal chest x-ray showing No focal lung opacity, pleural effusion of pneumothorax."
+50,al chest x-ray showing No acute cardiopulmonary abnormality. .,Frontal chest x-ray showing No acute cardiopulmonary disease. .
+51,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing Findings of COPD and left base focal atelectasis.
+52,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing No acute disease.
+53,al chest x-ray showing No acute cardiopulmonary abnormalities.,Frontal chest x-ray showing Stable chest without acute cardiopulmonary abnormality.
+54,al chest x-ray showing No acute cardiopulmonary findings. .,"Frontal chest x-ray showing Patchy, right lower lobe airspace disease. This XXXX represents pneumonia. Recommend followup radiographs to ensure resolution."
+55,ateral chest x-ray showing No acute cardiopulmonary disease.,Lateral chest x-ray showing No acute abnormality.
+56,ateral chest x-ray showing No acute cardiopulmonary abnormality. .,Lateral chest x-ray showing No evidence of active disease.
+57,ateral chest x-ray showing No acute cardiopulmonary findings.,Lateral chest x-ray showing No acute cardiopulmonary abnormality identified.
+58,ateral chest x-ray showing No acute cardiopulmonary disease.,Lateral chest x-ray showing No acute pulmonary disease. Multiple thoracic XXXX deformities XXXX due to osteoporosis.
+59,ateral chest x-ray showing No acute cardiopulmonary abnormalities.,Lateral chest x-ray showing No acute cardiopulmonary abnormalities.
+60,al chest x-ray showing No active disease.,"Frontal chest x-ray showing Cardiomegaly with surgical changes of CABG, with numerous broken XXXX sternotomy XXXX and a sternotomy XXXX fragment noted XXXX in the posterior left pleural space."
+61,al chest x-ray showing No acute cardiopulmonary findings. .,"Frontal chest x-ray showing Compared to XXXX, there are XXXX extensive bilateral reticulonodular interstitial opacities, concerning for atypical infection. Result notification XXXX Primordial. ."
+62,ateral chest x-ray showing No acute cardiopulmonary disease.,Lateral chest x-ray showing Normal chest.
+63,al chest x-ray showing No acute disease.,Frontal chest x-ray showing Clear lungs. No acute cardiopulmonary abnormality. .
+64,"ateral chest x-ray showing Low lung volumes, otherwise clear.",Lateral chest x-ray showing Limited study but no evidence for acute pulmonary disease.
+65,ateral chest x-ray showing No acute cardiopulmonary abnormalities.,Lateral chest x-ray showing No acute cardiopulmonary disease.
+66,ateral chest x-ray showing No acute cardiopulmonary abnormality. .,Lateral chest x-ray showing No acute cardiopulmonary findings.
+67,al chest x-ray showing 1. No evidence of active disease.,Frontal chest x-ray showing 1. Blunting of the right costophrenic XXXX. This may represent pleural effusion or pleural reaction. 2. Clearing of left base airspace disease. 3. Outward XXXX of PICC line. Tip now projects over upper SVC.
+68,ateral chest x-ray showing No acute cardiopulmonary abnormality. .,Lateral chest x-ray showing Mild cardiomegaly. Basilar atelectasis.
+69,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing Interval increase in size and number of innumerable bilateral pulmonary nodules consistent with worsening metastatic disease.
+70,ateral chest x-ray showing No acute cardiopulmonary disease.,Lateral chest x-ray showing No acute cardiopulmonary disease. .
+71,ateral chest x-ray showing No acute cardiopulmonary disease,Lateral chest x-ray showing Bilateral lower lobe focal atelectasis.
+72,al chest x-ray showing No acute cardiopulmonary disease.,Frontal chest x-ray showing Lungs appear relatively clear on today's exam. No significant interval change since the prior study and XXXX.
+73,ateral chest x-ray showing 1. Redemonstration of elevated right hemidiaphragm with associated basilar airspace disease and effusion. 2. Stable cardiomegaly. .,Lateral chest x-ray showing Persistent and biapical opacities. No acute pulmonary disease identified.
+74,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing No acute cardiopulmonary findings.
+75,al chest x-ray showing No acute cardiopulmonary findings. .,Frontal chest x-ray showing No acute cardiopulmonary abnormality identified.
+76,ateral chest x-ray showing No acute pulmonary disease.,Lateral chest x-ray showing No acute cardiopulmonary abnormality.
+77,al chest x-ray showing No acute cardiopulmonary abnormalities.,Frontal chest x-ray showing No acute cardiopulmonary abnormality.
+78,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing Chronic changes without acute disease.
+79,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing Stable blunting of the left costophrenic XXXX which may represent persistent left pleural effusion versus pleural scarring.
+80,ateral chest x-ray showing No acute cardiopulmonary findings.,Lateral chest x-ray showing No acute cardiopulmonary process.
+81,ateral chest x-ray showing No acute cardiopulmonary abnormalities.,Lateral chest x-ray showing 1. No acute intrathoracic abnormality.
+82,al chest x-ray showing No acute cardiopulmonary disease.,"Frontal chest x-ray showing Atelectasis versus scar left lung base. Otherwise unremarkable. XXXX XXXX for the opportunity to assist in the care of your patient. If there are any questions about this examination please XXXX. XXXX, XXXX certified radiologist, at XXXX."
+83,al chest x-ray showing Low lung volumes with bronchovascular crowding without acute cardiopulmonary abnormality.,"Frontal chest x-ray showing 1. Bibasilar airspace disease, greater on the right, either atelectasis or infiltrate. 2. Platelike right midlung atelectasis. ."
+84,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing 1. No acute radiographic cardiopulmonary process.
+85,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing Stable position of the left-sided hemodialysis catheter otherwise no acute cardiopulmonary disease.
+86,al chest x-ray showing No acute cardiopulmonary abnormality.,"Frontal chest x-ray showing 1. Minimal patchy bibasilar opacities, XXXX evolving pneumonia or atelectasis 2. XXXX bilateral pleural effusions"
+87,al chest x-ray showing No acute cardiopulmonary findings. .,"Frontal chest x-ray showing Bibasilar opacities, right greater than left, features suggest a combination of consolidation and atelectasis"
+88,ateral chest x-ray showing No acute cardiopulmonary disease.,Lateral chest x-ray showing No acute cardiopulmonary disease.
+89,al chest x-ray showing 1. No acute radiographic cardiopulmonary process.,Frontal chest x-ray showing Asymmetric right medial apical opacity which may be attributable to the sternoclavicular joint. Upper lobe airspace disease or pulmonary nodule is not entirely excluded. Recommend XXXX XXXX chest and apical lordotic view of the chest to further evaluate. Findings and recommendations were discussed XXXX. XXXX in the XXXX department at XXXX a.m. XXXX/XXXX.
+90,ateral chest x-ray showing No acute cardiopulmonary findings. .,Lateral chest x-ray showing No acute cardiopulmonary findings
+91,ateral chest x-ray showing No acute cardiopulmonary abnormality.,"Lateral chest x-ray showing 1. No focal airspace consolidation. 2. Mildly hyperexpanded lungs, suggestive of obstructive lung disease."
+92,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing 1. Left base airspace disease. 2. Left venous catheter with tip in the right atrium.
+93,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing No acute cardiopulmonary abnormality.
+94,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing No acute cardiopulmonary process.
+95,al chest x-ray showing No acute cardiopulmonary abnormalities.,Frontal chest x-ray showing No acute cardiopulmonary abnormalities.
+96,ateral chest x-ray showing No acute cardiopulmonary abnormalities.,Lateral chest x-ray showing 1. No acute radiographic cardiopulmonary process.
+97,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing No acute cardiopulmonary abnormality.
+98,al chest x-ray showing No acute cardiopulmonary abnormalities.,Frontal chest x-ray showing No acute pulmonary abnormalities.
+99,al chest x-ray showing No acute cardiopulmonary findings.,"Frontal chest x-ray showing Left mid lung opacity noted, most compatible with atelectasis versus infiltrate. Recommend clinical correlation. ."
+100,al chest x-ray showing No acute cardiopulmonary findings,Frontal chest x-ray showing No acute cardiopulmonary findings. .
+101,al chest x-ray showing No active disease.,"Frontal chest x-ray showing Mild stable cardiomegaly with mild central pulmonary vascular congestion and interstitial accentuation, XXXX edema."
+102,al chest x-ray showing No active disease.,Frontal chest x-ray showing No acute cardiopulmonary abnormality.
+103,al chest x-ray showing No active disease.,Frontal chest x-ray showing Stable exam with no acute abnormality seen.
+104,al chest x-ray showing 1. No acute pulmonary abnormality.,Frontal chest x-ray showing 1. No acute radiographic cardiopulmonary process.
+105,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing No acute abnormality demonstrated.
+106,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing 1. No evidence of active disease.
+107,ateral chest x-ray showing No acute cardiopulmonary abnormalities.,Lateral chest x-ray showing Negative for acute abnormality.
+108,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing No visible active cardiopulmonary disease.
+109,ateral chest x-ray showing No acute cardiopulmonary abnormality.,"Lateral chest x-ray showing 1. Chest. No active disease. 2. Left and right XXXX. Bilateral degenerative joint disease, left worse than right."
+110,al chest x-ray showing No acute cardiopulmonary findings.,Frontal chest x-ray showing Stable postop changes with stable mild cardiomegaly and normal lung vascularity.
+111,al chest x-ray showing No acute cardiopulmonary abnormalities.,Frontal chest x-ray showing No acute cardiopulmonary process.
+112,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing No active disease.
+113,al chest x-ray showing 1. No evidence of active disease.,Frontal chest x-ray showing Negative preoperative chest x-XXXX.
+114,al chest x-ray showing No acute cardiopulmonary disease.,Frontal chest x-ray showing In view of the history findings are strongly suggestive of XXXX acute pneumonia with right-sided pleural effusion.
+115,al chest x-ray showing No acute cardiopulmonary abnormalities.,Frontal chest x-ray showing 1. No acute cardiopulmonary disease.
+116,ateral chest x-ray showing No acute cardiopulmonary disease.,Lateral chest x-ray showing No acute findings.
+117,ateral chest x-ray showing No acute cardiopulmonary abnormality.,"Lateral chest x-ray showing Hypoventilated lungs, but no focal consolidation."
+118,al chest x-ray showing No acute cardiopulmonary findings.,Frontal chest x-ray showing No acute cardiopulmonary abnormality identified.
+119,ateral chest x-ray showing 1. No acute pulmonary abnormality.,"Lateral chest x-ray showing 2.1 cm nodular density in the anterior costophrenic XXXX on the lateral view, which could represent overlapping shadows or actual pulmonary nodule. Recommend followup with chest CT."
+120,al chest x-ray showing No acute cardiopulmonary abnormalities.,Frontal chest x-ray showing Bronchovascular crowding versus atelectasis within the right lung base otherwise no acute cardiopulmonary disease.
+121,ateral chest x-ray showing No acute cardiopulmonary disease.,Lateral chest x-ray showing No active disease.
+122,ateral chest x-ray showing No acute cardiopulmonary findings.,Lateral chest x-ray showing No acute cardiopulmonary abnormality.
+123,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing No acute disease. Retrocardiac density XXXX corresponding to known hiatal hernia.
+124,ateral chest x-ray showing No active disease.,Lateral chest x-ray showing 1. No acute radiographic cardiopulmonary process.
+125,al chest x-ray showing No acute cardiopulmonary abnormality.,"Frontal chest x-ray showing Chronic changes as described, no acute findings"
+126,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing No active disease.
+127,ateral chest x-ray showing No acute cardiopulmonary findings. .,Lateral chest x-ray showing No acute disease.
+128,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing 1. No acute cardiopulmonary abnormality.
+129,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing No radiographic evidence of acute cardiopulmonary disease.
+130,al chest x-ray showing No acute cardiopulmonary findings. .,Frontal chest x-ray showing No acute cardiopulmonary disease.
+131,al chest x-ray showing No acute cardiopulmonary abnormalities.,Frontal chest x-ray showing 1. No acute intrathoracic abnormality.
+132,al chest x-ray showing 1. No evidence of active disease.,Frontal chest x-ray showing No acute cardiopulmonary abnormality. .
+133,al chest x-ray showing 1. No evidence of active disease.,Frontal chest x-ray showing No acute cardiopulmonary process.
+134,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing No active disease.
+135,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing No acute cardiopulmonary finding.
+136,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing Moderate-to-severe cardiomegaly with probable pulmonary artery hypertension. Persistent left basilar opacity without significant effusion.
+137,ateral chest x-ray showing No acute cardiopulmonary abnormality. .,Lateral chest x-ray showing 1. Cardiomegaly with diffuse interstitial opacities. Findings may be secondary to pulmonary edema. Atypical infection is another consideration.
+138,al chest x-ray showing No acute cardiopulmonary abnormality.,"Frontal chest x-ray showing Tortuous aorta, otherwise unremarkable exam."
+139,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing 1. No acute cardiopulmonary findings.
+140,al chest x-ray showing No acute cardiopulmonary abnormalities.,Frontal chest x-ray showing Hyperexpanded lung XXXX compatible with COPD. No evidence of acute cardiopulmonary abnormality. .
+141,ateral chest x-ray showing No acute findings,Lateral chest x-ray showing Emphysema and scarring without acute disease
+142,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing No acute cardiopulmonary abnormality.
+143,ateral chest x-ray showing No acute cardiopulmonary findings.,Lateral chest x-ray showing No acute cardiopulmonary findings
+144,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing No acute disease.
+145,al chest x-ray showing No acute cardiopulmonary disease.,Frontal chest x-ray showing No acute cardiopulmonary disease.
+146,ateral chest x-ray showing No acute cardiopulmonary abnormality.,"Lateral chest x-ray showing Left base focal atelectasis, no infiltrates that would suggest active tuberculosis."
+147,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing No acute cardiopulmonary disease
+148,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing No acute cardiopulmonary abnormality.
+149,ateral chest x-ray showing 1. No evidence of active disease.,"Lateral chest x-ray showing Multiple nodules in both the left and right lungs consistent with neoplasm. Further workup could be initiated with contrasted CT of the chest, abdomen, and pelvis. Dr. XXXX XXXX I discussed the findings and further workup suggestions by telephone approximately XXXX hours XXXX, XXXX."
+150,al chest x-ray showing No active disease.,Frontal chest x-ray showing No acute cardiopulmonary abnormalities.
+151,ateral chest x-ray showing 1. No evidence of active disease.,Lateral chest x-ray showing No acute cardiopulmonary abnormality. No evidence of active tuberculosis. .
+152,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing No active disease.
+153,al chest x-ray showing No active disease.,Frontal chest x-ray showing Clear lungs.
+154,al chest x-ray showing No acute cardiopulmonary disease.,Frontal chest x-ray showing No acute cardiopulmonary disease.
+155,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing No evidence of active disease.
+156,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing No acute cardiopulmonary abnormalities.
+157,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing No acute cardiopulmonary abnormality. .
+158,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing No acute cardiopulmonary abnormality.
+159,ateral chest x-ray showing No acute cardiopulmonary findings.,Lateral chest x-ray showing Stable changes of COPD.
+160,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing 1. No acute pulmonary disease.
+161,al chest x-ray showing No acute cardiopulmonary abnormality. .,Frontal chest x-ray showing No acute abnormality.
+162,ateral chest x-ray showing No acute cardiopulmonary findings,Lateral chest x-ray showing 1. No acute pulmonary abnormality.
+163,al chest x-ray showing No acute cardiopulmonary findings. .,Frontal chest x-ray showing 1. No acute pulmonary abnormality.
+164,al chest x-ray showing No acute cardiopulmonary findings.,Frontal chest x-ray showing No acute cardiopulmonary abnormalities.
+165,ateral chest x-ray showing No acute cardiopulmonary disease.,Lateral chest x-ray showing No acute cardiopulmonary abnormality. .
+166,al chest x-ray showing No acute cardiopulmonary disease.,Frontal chest x-ray showing No acute disease.
+167,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing Borderline cardiomegaly without acute disease.
+168,ateral chest x-ray showing No acute cardiopulmonary abnormalities.,Lateral chest x-ray showing 1. No acute cardiopulmonary abnormality. No active disease.
+169,al chest x-ray showing No acute findings,Frontal chest x-ray showing No evidence of acute cardiopulmonary process. Mediastinal and hilar adenopathy compatible with patient's known sarcoidosis.
+170,al chest x-ray showing No acute disease.,Frontal chest x-ray showing No acute cardiopulmonary abnormality. .
+171,ateral chest x-ray showing No acute cardiopulmonary abnormalities.,Lateral chest x-ray showing No acute cardiopulmonary abnormalities.
+172,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing 1. Clear lungs.
+173,"al chest x-ray showing 1. No focal airspace consolidation. 2. Hyperexpanded lungs, suggestive of emphysema. 3. Stable biapical opacities, possibly scarring.",Frontal chest x-ray showing CHEST. No acute cardiopulmonary disease. ABDOMEN. Normal bowel XXXX pattern.
+174,ateral chest x-ray showing 1. No acute radiographic cardiopulmonary process.,Lateral chest x-ray showing No evidence of active disease.
+175,ateral chest x-ray showing No acute cardiopulmonary disease.,"Lateral chest x-ray showing No acute findings, see above."
+176,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing Clear lungs with no suspicious pulmonary nodules or masses.
+177,ateral chest x-ray showing No acute cardiopulmonary findings.,Lateral chest x-ray showing No acute cardiopulmonary disease.
+178,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing No acute cardiopulmonary findings.
+179,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing Emphysema without acute disease.
+180,ateral chest x-ray showing No acute cardiopulmonary abnormalities.,"Lateral chest x-ray showing Lingular nodule measuring 2.2 x 1.6 cm. Recommend XXXX to further evaluate. The above findings and recommendations were discussed with XXXX XXXX at XXXX p.m. XXXX, XXXX XXXX telephone."
+181,ateral chest x-ray showing No acute cardiopulmonary disease.,Lateral chest x-ray showing Unchanged platelike bibasilar opacities most XXXX representing scarring or subsegmental atelectasis. No acute cardiopulmonary abnormality.
+182,al chest x-ray showing No acute cardiopulmonary findings.,Frontal chest x-ray showing No acute preoperative findings.
+183,ateral chest x-ray showing No acute disease.,Lateral chest x-ray showing Negative for acute cardiopulmonary abnormality.
+184,ateral chest x-ray showing No acute cardiopulmonary abnormality.,"Lateral chest x-ray showing 1. Cardiomegaly and central vascular congestion with perihilar opacities, possibly edema. 2. Large right pleural effusion."
+185,al chest x-ray showing No acute cardiopulmonary abnormalities.,"Frontal chest x-ray showing No acute cardiopulmonary abnormalities. Specifically, no evidence of active tuberculosis."
+186,al chest x-ray showing No acute cardiopulmonary abnormalities.,Frontal chest x-ray showing No acute abnormality.
+187,al chest x-ray showing No acute cardiopulmonary findings.,Frontal chest x-ray showing No acute cardiopulmonary abnormality.
+188,ateral chest x-ray showing No acute cardiopulmonary disease.,Lateral chest x-ray showing No acute disease.
+189,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing Persistent and biapical opacities. No acute pulmonary disease identified.
+190,al chest x-ray showing No acute cardiopulmonary findings. .,"Frontal chest x-ray showing Small left retrocardiac opacity, may represent minimal atelectasis or small focus of airspace disease."
+191,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing 1. Left lower lobe pneumonia and minimal scarring or subsegmental atelectasis in the right lung base.
+192,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing Borderline cardiomegaly and mild chronic changes. No acute infiltrate.
+193,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing 1. No acute pulmonary abnormality.
+194,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing 1. Scattered bilateral subsegmental atelectasis. Decreased from prior radiograph. 2. Stable mild cardiomegaly.
+195,ateral chest x-ray showing No acute cardiopulmonary disease.,Lateral chest x-ray showing No acute cardiopulmonary process.
+196,al chest x-ray showing 1. No acute pulmonary abnormality.,Frontal chest x-ray showing No acute pulmonary disease.
+197,ateral chest x-ray showing No acute cardiopulmonary abnormality. .,Lateral chest x-ray showing No acute cardiopulmonary abnormality. .
+198,ateral chest x-ray showing No acute cardiopulmonary disease.,"Lateral chest x-ray showing Bibasilar opacities, right greater than left, features suggest a combination of consolidation and atelectasis"
+199,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing Normal chest
+200,al chest x-ray showing 1. No evidence of active disease.,Frontal chest x-ray showing Subtle medial left basilar opacity could represent early pneumonia.
+201,ateral chest x-ray showing No acute cardiopulmonary disease.,Lateral chest x-ray showing No acute cardiopulmonary abnormalities.
+202,ateral chest x-ray showing No acute cardiopulmonary abnormalities.,Lateral chest x-ray showing Low lung volumes with crowding. Mild left base atelectasis.
+203,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing Large left lower lobe opacity XXXX represents a large layering pleural effusion. Right lung is clear.
+204,al chest x-ray showing No acute cardiopulmonary abnormalities.,Frontal chest x-ray showing No acute cardiopulmonary findings.
+205,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing No acute cardiopulmonary abnormality.
+206,ateral chest x-ray showing No acute cardiopulmonary abnormalities.,Lateral chest x-ray showing 1. Soft tissue neck negative. 2. Chest. Heart failure with pulmonary alveolar edema and pleural effusion.
+207,ateral chest x-ray showing No acute cardiopulmonary abnormalities.,Lateral chest x-ray showing 1. Emphysema. 2. No acute cardiopulmonary abnormality.
+208,ateral chest x-ray showing No acute cardiopulmonary findings.,Lateral chest x-ray showing 1. Heart size upper limits of normal. 2. Small left pleural effusion with associated airspace disease.
+209,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing 1. No acute cardiopulmonary abnormalities.
+210,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing Numerous bilateral pulmonary nodules with dominant nodule/mass in the left lower lung. Diagnostic considerations would include primary lung carcinoma with metastatic nodules versus secondary metastatic disease from known brain tumor. Suggest clinical correlation and further imaging XXXX examination.
+211,al chest x-ray showing No acute cardiopulmonary abnormalities.,Frontal chest x-ray showing No acute cardiopulmonary finding.
+212,ateral chest x-ray showing No acute cardiopulmonary disease.,Lateral chest x-ray showing No acute cardiopulmonary disease.
+213,ateral chest x-ray showing No acute cardiopulmonary abnormalities.,Lateral chest x-ray showing No acute cardiopulmonary abnormality.
+214,al chest x-ray showing No acute cardiopulmonary abnormality.,"Frontal chest x-ray showing 1. Vague density in right XXXX, XXXX related to scapular tip and superimposed ribs. Consider oblique images to exclude true nodule. 2. No acute cardiopulmonary abnormality."
+215,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing No acute cardiopulmonary abnormality.
+216,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing No acute cardiopulmonary abnormality.
+217,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing 1. No acute cardiopulmonary disease.
+218,al chest x-ray showing No acute cardiopulmonary findings. .,Frontal chest x-ray showing No acute cardiopulmonary abnormality. .
+219,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing No active disease.
+220,al chest x-ray showing No acute cardiopulmonary disease,Frontal chest x-ray showing No evidence of acute cardiopulmonary process or significant interval change.
+221,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing 1. Pathologic fractures seen at T5 and L2. 2. Left venous catheter in SVC.
+222,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing Negative for acute cardiopulmonary disease.
+223,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing No acute cardiopulmonary abnormality.
+224,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing Clear lungs.
+225,al chest x-ray showing No acute cardiopulmonary findings. .,Frontal chest x-ray showing Normal chest radiograph.
+226,al chest x-ray showing No acute cardiopulmonary abnormalities.,Frontal chest x-ray showing No acute cardiopulmonary findings.
+227,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing No acute changes from prior imaging.
+228,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing No acute cardiopulmonary abnormality.
+229,ateral chest x-ray showing Stable cardiomegaly with mild interstitial edema.,Lateral chest x-ray showing Cardiomegaly and mild interstitial pulmonary edema.
+230,al chest x-ray showing No acute cardiopulmonary disease,Frontal chest x-ray showing Negative for acute abnormality.
+231,al chest x-ray showing No acute cardiopulmonary abnormalities.,Frontal chest x-ray showing No acute cardiopulmonary finding.
+232,ateral chest x-ray showing No acute cardiopulmonary abnormalities.,Lateral chest x-ray showing No acute cardiopulmonary abnormality.
+233,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing 1. No acute radiographic cardiopulmonary or osseous process.
+234,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing Chronic lung changes without acute abnormality.
+235,ateral chest x-ray showing No acute cardiopulmonary findings. .,Lateral chest x-ray showing No acute disease.
+236,al chest x-ray showing 1. No acute pulmonary abnormality. 2. Mild cardiomegaly without pulmonary edema.,Frontal chest x-ray showing Changes of chronic interstitial lung disease with ill-defined patchy left apical and right basilar airspace disease. PA and lateral chest radiograph may be of benefit XXXX clinically feasible.
+237,al chest x-ray showing No acute findings,Frontal chest x-ray showing Normal chest.
+238,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing 1. Cardiomegaly without failure 2. Ectatic aorta
+239,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing Normal chest exam.
+240,ateral chest x-ray showing No acute cardiopulmonary disease.,Lateral chest x-ray showing Low lung volumes with bibasilar streaky opacities most XXXX representing subsegmental atelectasis.
+241,al chest x-ray showing No acute cardiopulmonary findings.,Frontal chest x-ray showing No acute cardiopulmonary abnormality. Levoscoliosis of the thoracic spine.
+242,ateral chest x-ray showing No acute cardiopulmonary findings.,Lateral chest x-ray showing No acute disease.
+243,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing No acute cardiopulmonary findings.
+244,al chest x-ray showing 1. No evidence of active disease.,Frontal chest x-ray showing 1. No acute cardiopulmonary disease
+245,al chest x-ray showing No acute cardiopulmonary abnormalities.,Frontal chest x-ray showing Normal chest
+246,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing 1. No acute cardiopulmonary abnormality. 2. Stable bilateral emphysematous and lower lobe fibrotic changes.
+247,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing Clear lungs.
+248,al chest x-ray showing No acute cardiopulmonary abnormalities.,Frontal chest x-ray showing COPD. No acute disease.
+249,ateral chest x-ray showing No acute cardiopulmonary abnormality. .,Lateral chest x-ray showing 1. Left pleural effusion with adjacent atelectasis. XXXX right effusion is also present. 2. Cardiomegaly without overt edema.
+250,al chest x-ray showing No acute cardiopulmonary abnormality. .,Frontal chest x-ray showing Stable mild cardiomegaly and increased lung vascularity. Clear lungs.
+251,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing No acute disease.
+252,al chest x-ray showing 1. No evidence of active disease.,Frontal chest x-ray showing 1. Cardiomegaly and mild vascular prominence. 2. No evidence of acute disease.
+253,ateral chest x-ray showing No acute cardiopulmonary abnormality.,"Lateral chest x-ray showing Chronic emphysematous lung disease with mild bibasilar, right greater than left airspace disease/atelectasis."
+254,al chest x-ray showing No acute cardiopulmonary abnormalities.,Frontal chest x-ray showing No acute disease.
+255,ateral chest x-ray showing No acute cardiopulmonary findings.,Lateral chest x-ray showing No acute cardiopulmonary findings
+256,ateral chest x-ray showing 1. No evidence of active disease.,Lateral chest x-ray showing 1. Left midlung mass. 2. Left base effusion. 3. Probable hiatal hernia.
+257,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing Cardiomegaly without superimposed acute disease noted.
+258,al chest x-ray showing No acute cardiopulmonary disease.,Frontal chest x-ray showing No acute cardiopulmonary abnormality.
+259,al chest x-ray showing No acute cardiopulmonary disease.,Frontal chest x-ray showing No acute cardiopulmonary abnormality.
+260,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing No acute cardiopulmonary abnormalities.
+261,al chest x-ray showing No acute cardiopulmonary disease.,Frontal chest x-ray showing Clear lungs without suspicious pulmonary nodules or masses.
+262,al chest x-ray showing No active disease.,Frontal chest x-ray showing 1. No acute cardiopulmonary abnormality.
+263,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing 1. Stable cardiomegaly without acute cardio pulmonary process.
+264,ateral chest x-ray showing No active disease.,Lateral chest x-ray showing No acute cardiopulmonary findings.
+265,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing Normal chest
+266,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing No acute findings
+267,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing Hypoinflation with no visible active cardiopulmonary disease.
+268,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing No acute cardiopulmonary abnormality.
+269,ateral chest x-ray showing No acute cardiopulmonary abnormalities.,Lateral chest x-ray showing No focal lung consolidation. COPD. No displaced fractures.
+270,ateral chest x-ray showing No acute cardiopulmonary disease.,Lateral chest x-ray showing Mild stable cardiomegaly without acute disease. Possible XXXX right pleural effusion.
+271,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing Unremarkable examination of the chest.
+272,al chest x-ray showing 1. No acute pulmonary abnormality.,Frontal chest x-ray showing 1. Stable right basilar scarring and right pleural thickening
+273,ateral chest x-ray showing No acute cardiopulmonary findings.,Lateral chest x-ray showing 1. No acute pulmonary abnormality. 2. Abnormal appearance of the mediastinum as discussed below.
+274,al chest x-ray showing No acute cardiopulmonary abnormality.,"Frontal chest x-ray showing 1. Suspected fractures of the left anterior 6th and 7th ribs, of uncertain acuity. Correlate with XXXX tenderness. 2. Low lung volumes with mild basilar atelectasis, left greater than right. ."
+275,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing No acute cardiopulmonary process.
+276,al chest x-ray showing No acute cardiopulmonary abnormality. .,Frontal chest x-ray showing No acute findings
+277,ateral chest x-ray showing No acute cardiopulmonary findings.,Lateral chest x-ray showing 1. No acute pulmonary abnormality.
+278,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing 1. No acute cardiopulmonary abnormalities. 2. Low lung volumes causing bibasilar atelectasis and bronchovascular crowding .
+279,al chest x-ray showing No active disease.,Frontal chest x-ray showing Large left lower lobe opacity XXXX represents a large layering pleural effusion. Right lung is clear.
+280,ateral chest x-ray showing No acute cardiopulmonary findings.,Lateral chest x-ray showing No acute cardiopulmonary abnormalities.
+281,ateral chest x-ray showing No acute disease.,Lateral chest x-ray showing Hyperexpanded but clear lungs.
+282,al chest x-ray showing No acute cardiopulmonary abnormalities.,Frontal chest x-ray showing No active disease.
+283,al chest x-ray showing No acute cardiopulmonary disease.,Frontal chest x-ray showing No active disease.
+284,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing 1. No evidence of pneumonia or aspiration 2. Suture material along left apex suggesting prior lung surgery
+285,ateral chest x-ray showing No acute cardiopulmonary findings.,Lateral chest x-ray showing No active disease.
+286,al chest x-ray showing No acute cardiopulmonary findings.,Frontal chest x-ray showing XXXX change. Hypoinflation with no visible active cardiopulmonary disease.
+287,al chest x-ray showing No acute cardiopulmonary findings. .,Frontal chest x-ray showing No acute cardiopulmonary findings. .
+288,ateral chest x-ray showing No acute cardiopulmonary abnormalities.,Lateral chest x-ray showing Mild left-sided scarring/subsegmental atelectasis. No definite infiltrate.
+289,ateral chest x-ray showing No acute cardiopulmonary findings. .,Lateral chest x-ray showing No acute cardiopulmonary abnormality.
+290,al chest x-ray showing No acute cardiopulmonary findings.,Frontal chest x-ray showing No acute cardiopulmonary disease.
+291,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing No acute abnormality.
+292,al chest x-ray showing No acute cardiopulmonary findings.,Frontal chest x-ray showing Stable mild cardiomegaly without acute cardiopulmonary abnormality.
+293,ateral chest x-ray showing 1. Cardiomegaly and small bilateral pleural effusions 2. Abnormal pulmonary opacities most suggestive of pulmonary edema.,Lateral chest x-ray showing 1. Stable cardiomegaly without infiltrates.
+294,al chest x-ray showing No acute cardiopulmonary abnormality. .,Frontal chest x-ray showing No acute findings
+295,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing No acute preoperative process.
+296,ateral chest x-ray showing No acute cardiopulmonary disease.,Lateral chest x-ray showing No acute cardiopulmonary process.
+297,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing No acute cardiopulmonary abnormality.
+298,ateral chest x-ray showing No acute cardiopulmonary disease.,Lateral chest x-ray showing No acute cardiopulmonary abnormalities. .
+299,al chest x-ray showing 1. No evidence of active disease.,Frontal chest x-ray showing No acute cardiopulmonary disease. Critical result notification documented through Primordial.
+300,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing Negative for acute abnormality.
+301,ateral chest x-ray showing No acute cardiopulmonary abnormalities.,"Lateral chest x-ray showing Patchy left lower lobe infiltrate and focal atelectasis, consistent with pneumonitis."
+302,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing 1. Cardiomegaly without lung infiltrates.
+303,al chest x-ray showing No acute cardiopulmonary abnormalities.,Frontal chest x-ray showing No acute cardiopulmonary findings.
+304,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing Normal chest
+305,ateral chest x-ray showing No acute cardiopulmonary findings.,Lateral chest x-ray showing No active disease.
+306,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing No acute cardiopulmonary findings.
+307,al chest x-ray showing No acute cardiopulmonary findings.,Frontal chest x-ray showing No acute disease.
+308,al chest x-ray showing 1. No evidence of active disease.,Frontal chest x-ray showing 1. No acute radiographic cardiopulmonary process.
+309,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing No acute cardiopulmonary disease.
+310,al chest x-ray showing No acute cardiopulmonary abnormality. .,Frontal chest x-ray showing Chronic changes without acute cardiopulmonary findings.
+311,al chest x-ray showing No acute cardiopulmonary abnormalities.,Frontal chest x-ray showing 1. Interval central catheter exchange. No acute cardiopulmonary abnormality. 2. Stable cardiomegaly. .
+312,ateral chest x-ray showing No acute cardiopulmonary abnormalities.,Lateral chest x-ray showing Emphysematous changes without evidence of focal airspace disease or pulmonary edema.
+313,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing No acute cardiopulmonary abnormality.
+314,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing 1. No acute cardiopulmonary disease.
+315,al chest x-ray showing No acute disease.,Frontal chest x-ray showing Stable left lower lung interstitial infiltrates or fibrosis. No acute cardiopulmonary findings.
+316,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing No acute radiographic cardiopulmonary process.
+317,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing 1. No acute cardiopulmonary findings.
+318,al chest x-ray showing No acute cardiopulmonary abnormalities.,Frontal chest x-ray showing No acute cardiopulmonary abnormality.
+319,al chest x-ray showing No acute cardiopulmonary abnormalities.,Frontal chest x-ray showing No acute cardiopulmonary abnormality.
+320,al chest x-ray showing No acute cardiopulmonary abnormalities.,Frontal chest x-ray showing 1. No acute cardiopulmonary disease.
+321,al chest x-ray showing No acute cardiopulmonary abnormalities.,Frontal chest x-ray showing No active disease.
+322,al chest x-ray showing No acute cardiopulmonary findings.,Frontal chest x-ray showing No acute cardiopulmonary findings. .
+323,ateral chest x-ray showing 1. No evidence of active disease.,Lateral chest x-ray showing No acute cardiopulmonary disease
+324,ateral chest x-ray showing No acute cardiopulmonary findings.,Lateral chest x-ray showing No acute cardiopulmonary process. .
+325,al chest x-ray showing No acute cardiopulmonary abnormalities.,Frontal chest x-ray showing 1. No acute cardiopulmonary disease. 2. Acute anterior XXXX deformities at L1-L2. Please see CT of the lumbar spine for further details.
+326,ateral chest x-ray showing No acute cardiopulmonary disease.,Lateral chest x-ray showing Age-indeterminate lower thoracic slight XXXX deformity otherwise negative exam.
+327,al chest x-ray showing No active disease.,Frontal chest x-ray showing Stable cardiomegaly and mild bilateral interstitial opacities which represent mild pulmonary edema.
+328,al chest x-ray showing No acute cardiopulmonary abnormality. .,Frontal chest x-ray showing Low lung volumes. No acute cardiopulmonary abnormalities.
+329,ateral chest x-ray showing No acute cardiopulmonary findings.,Lateral chest x-ray showing Chronic obstructive pulmonary disease with no acute findings.
+330,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing No acute cardiopulmonary abnormality..
+331,al chest x-ray showing No acute cardiopulmonary abnormalities.,Frontal chest x-ray showing 1. No evidence of active disease.
+332,al chest x-ray showing No acute cardiopulmonary findings. .,"Frontal chest x-ray showing Increased size of density in the left cardiophrenic XXXX. Primary differential considerations include increased size of prominent epicardial fat, pericardial mass, pleural mass or cardiac aneurysm. CT chest with contrast is recommended. These findings and recommendations were discussed XXXX. XXXX by Dr. XXXX XXXX telephone at XXXX p.m. XXXX/XXXX. Dr. XXXX<XXXX>technologist receipt of the results."
+333,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing No acute cardiopulmonary abnormality..
+334,al chest x-ray showing 1. No evidence of active disease.,Frontal chest x-ray showing No acute cardiopulmonary disease
+335,al chest x-ray showing No acute cardiopulmonary findings. .,Frontal chest x-ray showing No acute abnormality. .
+336,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing No acute cardiopulmonary abnormality..
+337,al chest x-ray showing No acute findings.,Frontal chest x-ray showing No acute cardiopulmonary disease
+338,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing No acute cardiopulmonary process.
+339,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing No acute cardiopulmonary abnormality.
+340,ateral chest x-ray showing No acute cardiopulmonary abnormality.,"Lateral chest x-ray showing 1. Left lower lobe, superior segment, airspace consolidation, radiographic appearance most typical for pneumonia. Based on patient's age, a followup chest x-XXXX to document resolution is recommended. 2. XXXX left parapneumonic pleural effusion."
+341,ateral chest x-ray showing No acute cardiopulmonary findings.,Lateral chest x-ray showing No acute cardiopulmonary abnormality.
+342,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing No acute cardiopulmonary disease.
+343,ateral chest x-ray showing 1. No evidence of active disease.,Lateral chest x-ray showing Stable postsurgical changes of left hemithorax with resolution of small apical pneumothorax and basilar air space opacities.
+344,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing 1. No acute cardiopulmonary process. 2. Stable appearance of the left upper lobe.
+345,ateral chest x-ray showing No acute cardiopulmonary abnormalities.,Lateral chest x-ray showing No acute cardiopulmonary abnormality.
+346,ateral chest x-ray showing No acute findings,"Lateral chest x-ray showing Buckling deformity of the anterior cortex of the XXXX body. Fracture is possible, if high energy XXXX was localized to this region. Correlate with focal tenderness. XXXX chest, if warranted."
+347,al chest x-ray showing 1. No evidence of active disease.,Frontal chest x-ray showing No evidence of active disease.
+348,al chest x-ray showing No active disease.,Frontal chest x-ray showing No acute disease.
+349,ateral chest x-ray showing No acute cardiopulmonary abnormalities.,Lateral chest x-ray showing Borderline cardiomegaly without acute disease.
+350,ateral chest x-ray showing No acute cardiopulmonary findings.,Lateral chest x-ray showing No acute cardiopulmonary process.
+351,ateral chest x-ray showing No acute cardiopulmonary abnormality.,"Lateral chest x-ray showing Right upper lobe cavity, consistent with prior tuberculous infection. There is increased right upper lobe opacities XXXX compared to the prior study. This could represent reactivation of tuberculosis or other infection."
+352,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing Mildly limited study with lungs grossly clear.
+353,ateral chest x-ray showing No acute findings.,Lateral chest x-ray showing Hyperinflated lungs. No acute cardiopulmonary abnormality. .
+354,al chest x-ray showing No acute cardiopulmonary abnormalities.,Frontal chest x-ray showing Chest radiograph. 1. No acute radiographic cardiopulmonary process.
+355,ateral chest x-ray showing No acute cardiopulmonary disease.,Lateral chest x-ray showing No active disease.
+356,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing No acute cardiopulmonary abnormalities.
+357,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing No acute cardiopulmonary abnormalities.
+358,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing XXXX change COPD with no acute findings.
+359,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing No radiographic evidence of acute cardiopulmonary disease.
+360,ateral chest x-ray showing No acute cardiopulmonary abnormality. .,Lateral chest x-ray showing Clear lungs
+361,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing Findings consistent with widespread changes from cystic fibrosis. It is difficult to differentiate acute from chronic change.
+362,al chest x-ray showing No acute cardiopulmonary abnormalities.,Frontal chest x-ray showing Slight cardiomegaly with no failure or pneumonia.
+363,al chest x-ray showing No acute cardiopulmonary findings.,Frontal chest x-ray showing No evidence of active disease.
+364,ateral chest x-ray showing No acute cardiopulmonary disease.,Lateral chest x-ray showing No acute cardiopulmonary findings. .
+365,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing No active disease. No evidence for heart failure.
+366,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing Low lung volumes without acute cardiopulmonary abnormality.
+367,ateral chest x-ray showing 1. No acute pulmonary abnormality. 2. Mild cardiomegaly without pulmonary edema.,Lateral chest x-ray showing Cardiomegaly with vascular congestion and suspected pulmonary edema. .
+368,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing Unremarkable chest.
+369,al chest x-ray showing No acute cardiopulmonary disease.,Frontal chest x-ray showing No acute abnormality. No pulmonary nodule identified. .
+370,ateral chest x-ray showing No active disease.,Lateral chest x-ray showing 1. No acute radiographic cardiopulmonary process.
+371,al chest x-ray showing No acute cardiopulmonary abnormality.,"Frontal chest x-ray showing Clear lungs, no acute cardiopulmonary abnormality."
+372,ateral chest x-ray showing No acute cardiopulmonary abnormalities.,Lateral chest x-ray showing Stable marked cardiomegaly. No acute cardiopulmonary abnormalities.
+373,al chest x-ray showing No acute cardiopulmonary abnormality. .,Frontal chest x-ray showing No acute cardiopulmonary abnormality. .
+374,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing Emphysema without acute cardiopulmonary process.
+375,al chest x-ray showing No acute cardiopulmonary findings.,Frontal chest x-ray showing No acute cardiopulmonary abnormalities.
+376,ateral chest x-ray showing No acute cardiopulmonary abnormality.,"Lateral chest x-ray showing 1. Increased size of left pneumothorax, with XXXX partial collapse of the left upper and lower lobes. 2. Small left pleural effusion/hemothorax."
+377,al chest x-ray showing No acute cardiopulmonary abnormality.,"Frontal chest x-ray showing Diffuse reticulonodular pattern bilaterally. The this may represent heart failure, opportunistic infection, or idiopathic interstitial pneumonitis. XXXX of chest for further characterization."
+378,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing No acute cardiopulmonary abnormality.
+379,al chest x-ray showing No acute cardiopulmonary findings. .,Frontal chest x-ray showing No active/acute cardiopulmonary disease.
+380,al chest x-ray showing No active disease.,Frontal chest x-ray showing No acute cardiopulmonary abnormality.
+381,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing No acute cardiopulmonary abnormality.
+382,ateral chest x-ray showing 1. No evidence of active disease.,Lateral chest x-ray showing 1. No evidence of active tuberculosis. 2. XXXX left upper lobe opacities. The appearance XXXX subsegmental atelectasis or scarring.
+383,ateral chest x-ray showing No acute cardiopulmonary abnormality. .,"Lateral chest x-ray showing 1. Low lung volumes. 2. Opacity in the lingula is favored to represent prominent pericardial fat, but lingular atelectasis or infiltrate cannot be ruled out. ."
+384,al chest x-ray showing 1. No evidence of active disease.,Frontal chest x-ray showing Chest: 1. No acute cardiopulmonary abnormality identified. 2. Pectus excavatum. Right shoulder and right clavicle: 1. No acute bony abnormality identified. 2. The lateral most screw of the clavicular fixation XXXX is fractured. This is age-indeterminate as no prior studies are available for comparison. Clinical correlation is XXXX.
+385,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing No acute process.
+386,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing Low lung volumes without acute cardiopulmonary disease.
+387,al chest x-ray showing No acute cardiopulmonary findings.,Frontal chest x-ray showing No evidence of active disease.
+388,al chest x-ray showing No active disease.,Frontal chest x-ray showing 1. No acute cardiopulmonary abnormalities.
+389,al chest x-ray showing No active disease.,Frontal chest x-ray showing No active disease.
+390,al chest x-ray showing No acute cardiopulmonary abnormality.,"Frontal chest x-ray showing 1. Mild central vascular prominence, XXXX congestion. Heart size at the upper limits of normal."
+391,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing No acute cardiopulmonary abnormalities.
+392,al chest x-ray showing 1. No evidence of active disease.,Frontal chest x-ray showing Clear lungs. No acute cardiopulmonary abnormality. .
+393,al chest x-ray showing No acute cardiopulmonary abnormality.,"Frontal chest x-ray showing Low lung volumes, otherwise no acute cardiopulmonary abnormality."
+394,ateral chest x-ray showing No acute cardiopulmonary disease.,Lateral chest x-ray showing No acute findings.
+395,al chest x-ray showing 1. No acute pulmonary abnormality.,Frontal chest x-ray showing 1. No acute cardiopulmonary abnormalities. 2. Emphysema and chronic bony abnormalities are unchanged from prior exams. .
+396,ateral chest x-ray showing No acute cardiopulmonary disease.,Lateral chest x-ray showing No acute cardiopulmonary disease. .
+397,ateral chest x-ray showing No acute cardiopulmonary abnormalities.,Lateral chest x-ray showing No acute cardiopulmonary abnormality identified.
+398,al chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing No acute cardiopulmonary abnormality. Chronic changes consistent with emphysema.
+399,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing XXXX change. No active cardiopulmonary disease.
+400,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing Cardiomegaly without superimposed acute disease noted.
+401,al chest x-ray showing No acute cardiopulmonary abnormalities.,"Frontal chest x-ray showing No acute process. No definite pulmonary nodules are seen. If clinically indicated, further evaluation with CT of the thorax can be performed to identify a small nodule. Correlation with prior radiographs would be helpful to identify the location of the previously described nodule."
+402,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing Low lung volumes without acute cardiopulmonary abnormality.
+403,ateral chest x-ray showing No acute cardiopulmonary abnormalities.,Lateral chest x-ray showing No evidence of acute cardiopulmonary process. Unremarkable examination of the chest.
+404,al chest x-ray showing No acute cardiopulmonary findings.,Frontal chest x-ray showing Findings of COPD with no acute changes.
+405,ateral chest x-ray showing No acute cardiopulmonary findings. .,Lateral chest x-ray showing No acute findings
+406,al chest x-ray showing No acute cardiopulmonary abnormality. .,Frontal chest x-ray showing No acute cardiopulmonary abnormality. .
+407,al chest x-ray showing No acute cardiopulmonary abnormalities.,Frontal chest x-ray showing Chronic interstitial lung disease and scars unchanged. No acute disease.
+408,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing No evidence of thoracic injury.
+409,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing No acute abnormality.
+410,al chest x-ray showing No acute disease.,"Frontal chest x-ray showing No acute disease. Previously visualized nodule in right lower lobe not well-seen on today's study, XXXX summation artifact."
+411,ateral chest x-ray showing No acute cardiopulmonary abnormalities.,Lateral chest x-ray showing Negative for acute abnormality.
+412,ateral chest x-ray showing No acute cardiopulmonary process.,Lateral chest x-ray showing Negative chest x-XXXX.
+413,al chest x-ray showing No acute cardiopulmonary disease.,Frontal chest x-ray showing No acute pulmonary disease.
+414,al chest x-ray showing No acute cardiopulmonary abnormality. .,Frontal chest x-ray showing 1. No acute pulmonary abnormality.
+415,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing No acute pulmonary disease.
+416,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing No acute cardiopulmonary disease.
+417,al chest x-ray showing No acute cardiopulmonary findings.,Frontal chest x-ray showing No acute cardiopulmonary abnormality.
+418,al chest x-ray showing No acute disease.,Frontal chest x-ray showing Normal chest.
+419,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing No acute cardiopulmonary abnormality.
+420,ateral chest x-ray showing No acute disease.,Lateral chest x-ray showing 1. No acute radiographic cardiopulmonary process.
+421,ateral chest x-ray showing Stable cardiomegaly without acute cardiopulmonary abnormality.,Lateral chest x-ray showing 1. No acute cardiopulmonary abnormality.
+422,al chest x-ray showing No acute cardiopulmonary abnormalities.,Frontal chest x-ray showing Postsurgical and postradiation changes on the left with no acute abnormality.
+423,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing No acute pulmonary disease.
+424,"ateral chest x-ray showing Cardiomegaly, no acute pulmonary findings","Lateral chest x-ray showing Low lung volumes with right basilar atelectasis. Otherwise, no acute cardiopulmonary disease."
+425,ateral chest x-ray showing No acute cardiopulmonary findings. .,Lateral chest x-ray showing No acute cardiopulmonary findings
+426,al chest x-ray showing No active disease.,Frontal chest x-ray showing 1. No acute cardiopulmonary disease.
+427,al chest x-ray showing No acute cardiopulmonary findings. .,Frontal chest x-ray showing Unremarkable radiographs of the chest.
+428,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing 1. No evidence of acute disease.
+429,ateral chest x-ray showing No active disease.,Lateral chest x-ray showing No acute cardiopulmonary process.
+430,ateral chest x-ray showing No acute cardiopulmonary abnormalities.,Lateral chest x-ray showing Cardiomegaly with low lung volumes which are grossly clear.
+431,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing Normal chest exam.
+432,ateral chest x-ray showing No active disease.,Lateral chest x-ray showing Negative for acute cardiopulmonary findings.
+433,al chest x-ray showing No acute cardiopulmonary findings.,Frontal chest x-ray showing 1. No acute pulmonary abnormality.
+434,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing Emphysema. Recommend rib series to to establish that circular densities overlying ribs are in the ribs.
+435,al chest x-ray showing No acute cardiopulmonary disease.,Frontal chest x-ray showing No acute process.
+436,ateral chest x-ray showing No acute cardiopulmonary abnormalities.,Lateral chest x-ray showing 1. No acute intrathoracic abnormality.
+437,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing 1. Small right pleural effusion. Increased. 2. No pneumothorax is seen. 3. Scattered XXXX of right base atelectasis.
+438,ateral chest x-ray showing No acute cardiopulmonary disease.,Lateral chest x-ray showing No acute cardiopulmonary process. .
+439,al chest x-ray showing No acute cardiopulmonary abnormalities.,Frontal chest x-ray showing 1. No acute cardiopulmonary abnormalities.
+440,al chest x-ray showing No acute cardiopulmonary abnormalities.,Frontal chest x-ray showing No acute cardiopulmonary abnormalities.
+441,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing No acute cardiopulmonary disease
+442,ateral chest x-ray showing No acute cardiopulmonary findings. .,Lateral chest x-ray showing No acute abnormality.
+443,al chest x-ray showing No acute cardiopulmonary findings. .,Frontal chest x-ray showing 1. Stable appearance of the chest. No acute pulmonary disease.
+444,ateral chest x-ray showing No acute cardiopulmonary findings.,Lateral chest x-ray showing 1. Findings consistent with emphysema with interstitial thickening. This could be due to edema superimposed on emphysema or pneumonitis or fibrosis. XXXX chest if warranted clinically given recent onset of dyspnea. .
+445,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing No acute cardiopulmonary abnormality..
+446,al chest x-ray showing No acute cardiopulmonary disease.,Frontal chest x-ray showing No acute cardiopulmonary findings. .
+447,ateral chest x-ray showing No acute cardiopulmonary findings.,Lateral chest x-ray showing No acute cardiopulmonary abnormality.
+448,al chest x-ray showing No acute cardiopulmonary findings.,Frontal chest x-ray showing No acute cardiopulmonary disease.
+449,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing No acute cardiopulmonary abnormality.
+450,ateral chest x-ray showing No acute cardiopulmonary disease.,Lateral chest x-ray showing No acute cardiopulmonary abnormality. .
+451,al chest x-ray showing No active disease.,Frontal chest x-ray showing 1. Redemonstrated pulmonary fibrosis without evidence for acute infiltrate.
+452,ateral chest x-ray showing Low lung volumes without acute cardiopulmonary disease.,Lateral chest x-ray showing No acute cardiopulmonary abnormality.
+453,ateral chest x-ray showing No acute cardiopulmonary abnormalities.,"Lateral chest x-ray showing Vague opacity in the right midlung, this could reflect a small focus of atelectasis or infiltrate. Bibasilar airspace opacities, XXXX atelectasis."
+454,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing The right lower lobe pneumonia
+455,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing No acute cardiopulmonary abnormalities.
+456,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing Left base airspace disease and nodular opacity in the right midlung.
+457,"al chest x-ray showing 1. No focal airspace consolidation. 2. Emphysema. 3. Stable biapical opacities, possibly scarring.","Frontal chest x-ray showing 1. Haziness in the right lung apex and questionable right middle lobe pulmonary nodule. These may be explained by overlapping structures, XXXX chest would be useful for further evaluation. 2. Emphysematous changes."
+458,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing 1. No acute pulmonary disease.
+459,al chest x-ray showing No acute cardiopulmonary findings.,Frontal chest x-ray showing No acute cardiopulmonary findings.
+460,ateral chest x-ray showing No acute cardiopulmonary findings. .,Lateral chest x-ray showing 1. No acute cardiopulmonary abnormality. 2. Technically limited exam. 3. Incidental note XXXX of large cervical spine osteophytes. .
+461,ateral chest x-ray showing No acute cardiopulmonary abnormalities.,Lateral chest x-ray showing Bibasilar pneumonia.
+462,al chest x-ray showing No acute cardiopulmonary findings. .,Frontal chest x-ray showing Negative for acute abnormality.
+463,al chest x-ray showing No acute cardiopulmonary findings.,"Frontal chest x-ray showing XXXX right upper lobe mass, suspicious for neoplasm. CT of chest abdomen and head would be helpful for further evaluation."
+464,al chest x-ray showing No acute cardiopulmonary findings. .,Frontal chest x-ray showing No acute findings
+465,al chest x-ray showing 1. No acute pulmonary abnormality.,Frontal chest x-ray showing No acute findings.
+466,ateral chest x-ray showing No acute cardiopulmonary abnormalities.,Lateral chest x-ray showing Mild cardiomegaly.
+467,al chest x-ray showing No acute cardiopulmonary abnormality. .,Frontal chest x-ray showing 1. Stable cardiomegaly without acute cardiopulmonary abnormality.
+468,al chest x-ray showing No acute cardiopulmonary disease.,Frontal chest x-ray showing No acute disease.
+469,al chest x-ray showing No active disease.,Frontal chest x-ray showing No acute cardiopulmonary abnormalities.
+470,al chest x-ray showing No acute cardiopulmonary disease.,Frontal chest x-ray showing XXXX of COPD and interstitial lung disease. No definite pneumonia. There does appear to be progression of changes since XXXX.
+471,ateral chest x-ray showing No acute cardiopulmonary abnormality.,"Lateral chest x-ray showing 1. Prominent mediastinum. May be due to mediastinal fat. Comparison films, if available, would be useful to determine if this is a chronic appearance. 2. Clear lungs."
+472,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing No acute cardiopulmonary process.
+473,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing Negative for acute cardiopulmonary findings.
+474,al chest x-ray showing No acute cardiopulmonary findings,Frontal chest x-ray showing No acute cardiopulmonary abnormality. .
+475,al chest x-ray showing No evidence of active disease.,Frontal chest x-ray showing No acute cardiopulmonary disease
+476,al chest x-ray showing No acute cardiopulmonary abnormality. .,"Frontal chest x-ray showing 1. No acute pulmonary abnormality. 2. Mild cardiomegaly, atherosclerotic disease."
+477,al chest x-ray showing No acute cardiopulmonary disease.,Frontal chest x-ray showing No acute cardiopulmonary disease.
+478,al chest x-ray showing No acute cardiopulmonary abnormality. .,Frontal chest x-ray showing No acute cardiopulmonary findings. .
+479,al chest x-ray showing No acute cardiopulmonary findings.,Frontal chest x-ray showing No acute cardiopulmonary findings. .
+480,ateral chest x-ray showing No acute cardiopulmonary findings.,Lateral chest x-ray showing No acute cardiopulmonary abnormality.
+481,al chest x-ray showing No acute cardiopulmonary abnormality.,"Frontal chest x-ray showing 1. No acute cardiopulmonary abnormality. 2. 1.7 cm nodular opacity within the right hilum, there is XXXX large lymph node or partially calcified granuloma. Followup XXXX radiograph to assess stability may be of benefit."
+482,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing No acute pulmonary disease.
+483,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing No acute cardiopulmonary process.
+484,ateral chest x-ray showing No acute disease.,Lateral chest x-ray showing No acute cardiopulmonary abnormality..
+485,al chest x-ray showing No active disease.,Frontal chest x-ray showing No active disease.
+486,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing No acute cardiopulmonary abnormality..
+487,ateral chest x-ray showing No acute cardiopulmonary abnormality.,"Lateral chest x-ray showing 1. Low lung volumes with patchy bilateral scarring versus atelectasis. 2. Otherwise, no acute or XXXX pulmonary abnormality."
+488,ateral chest x-ray showing No acute cardiopulmonary findings. .,"Lateral chest x-ray showing 1. Cardiomegaly and small left pleural effusion versus pleural thickening 2. Streaky and patchy bibasilar opacities may be compatible with atelectasis versus consolidation, aspiration, clinical correlation recommended"
+489,al chest x-ray showing No acute cardiopulmonary disease.,Frontal chest x-ray showing Small bilateral pleural effusions and right infrahilar infiltrate versus bronchovascular crowding.
+490,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing Bilateral lower lobe focal atelectasis.
+491,al chest x-ray showing No acute cardiopulmonary disease.,Frontal chest x-ray showing No acute cardiopulmonary disease.
+492,al chest x-ray showing No acute cardiopulmonary abnormalities.,Frontal chest x-ray showing 1. No acute cardiopulmonary findings.
+493,al chest x-ray showing No acute cardiopulmonary abnormality.,"Frontal chest x-ray showing Core irregularity along the anterior margin of the sternum may represent an age-indeterminate nondisplaced fracture. In addition, focal lentiform hyperdensity along the XXXX aspect of the sternum may represent callus formation. Left basilar atelectasis otherwise clear lungs."
+494,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing Chronic changes without acute process
+495,ateral chest x-ray showing No acute cardiopulmonary findings. .,Lateral chest x-ray showing Cardiomegaly with pulmonary interstitial edema and XXXX bilateral pleural effusions. .
+496,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing 1. Small left pleural effusion.
+497,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing Normal chest
+498,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing Normal chest
+499,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing No acute cardiopulmonary findings.
+500,ateral chest x-ray showing No acute cardiopulmonary abnormalities.,Lateral chest x-ray showing Negative chest .
+501,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing No acute cardiopulmonary findings.
+502,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing Normal chest No evidence of tuberculosis
+503,al chest x-ray showing No acute cardiopulmonary findings. .,Frontal chest x-ray showing 1. No acute cardiopulmonary findings. 2. Unchanged chronic appearance of the left lung.
+504,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing No acute cardiopulmonary abnormality.
+505,al chest x-ray showing No acute cardiopulmonary abnormality. .,Frontal chest x-ray showing No acute abnormalities are seen. .
+506,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing Left lower lobe infiltrate.
+507,al chest x-ray showing No acute cardiopulmonary abnormalities.,Frontal chest x-ray showing Stable left upper lobe collapse associated with parenchymal scarring and pleural thickening. Findings consistent with previous active pulmonary tuberculosis pneumonia.
+508,al chest x-ray showing 1. No evidence of active disease.,Frontal chest x-ray showing No acute disease.
+509,al chest x-ray showing No acute cardiopulmonary abnormalities.,Frontal chest x-ray showing 1. Mild hypoinflation without acute disease. 2. Retrocardiac density compatible with hiatal hernia.
+510,al chest x-ray showing No evidence of active disease.,Frontal chest x-ray showing No acute cardiopulmonary abnormality. .
+511,al chest x-ray showing No acute cardiopulmonary findings. .,"Frontal chest x-ray showing Acute obliquely oriented lucency through the right 12th posterior rib, concerning for acute fracture. Recommend correlation with side of XXXX tenderness. No other fractures are XXXX identified. If there is high clinical concern, recommend further evaluation with dedicated views of the right ribs."
+512,al chest x-ray showing No acute cardiopulmonary abnormalities.,Frontal chest x-ray showing Normal chest.
+513,ateral chest x-ray showing No acute cardiopulmonary abnormalities.,Lateral chest x-ray showing Left base airspace disease and nodular opacity in the right midlung.
+514,ateral chest x-ray showing No acute cardiopulmonary findings. .,Lateral chest x-ray showing No evidence of active disease.
+515,ateral chest x-ray showing No acute cardiopulmonary disease.,Lateral chest x-ray showing Minimal left basilar opacity most XXXX representing atelectasis or chronic scarring.
+516,al chest x-ray showing No acute cardiopulmonary abnormality. .,"Frontal chest x-ray showing Left basilar patchy opacities, which may represent atelectasis or infection. ."
+517,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing No acute abnormality.
+518,ateral chest x-ray showing No acute cardiopulmonary process.,Lateral chest x-ray showing 1. Upper limits of normal in size heart and mild tortuosity of the aortic XXXX. No acute pulmonary process.
+519,al chest x-ray showing No acute cardiopulmonary abnormality.,"Frontal chest x-ray showing 1. Right subclavian catheter, distal tip in the region of the subclavian vein at the level of clavicular head. 2. Low lung volumes, with left lower lung atelectasis. ."
+520,al chest x-ray showing No acute cardiopulmonary abnormalities.,Frontal chest x-ray showing No active disease.
+521,al chest x-ray showing No acute cardiopulmonary findings.,Frontal chest x-ray showing No acute cardiopulmonary findings
+522,al chest x-ray showing No acute cardiopulmonary findings.,Frontal chest x-ray showing 1. No acute pulmonary abnormality.
+523,al chest x-ray showing No acute cardiopulmonary abnormalities.,Frontal chest x-ray showing No acute cardiopulmonary findings.
+524,al chest x-ray showing No acute cardiopulmonary abnormalities.,Frontal chest x-ray showing No acute cardiopulmonary abnormalities.
+525,al chest x-ray showing No acute cardiopulmonary findings. .,Frontal chest x-ray showing 1. No acute radiographic cardiopulmonary process.
+526,ateral chest x-ray showing No acute cardiopulmonary abnormality.,"Lateral chest x-ray showing Mild pulmonary vascular congestion, with XXXX XXXX bilateral effusions. Constellation findings is most compatible with congestive heart failure."
+527,al chest x-ray showing No acute cardiopulmonary abnormalities.,Frontal chest x-ray showing 1. No acute cardiopulmonary abnormality. 2. Emphysema.
+528,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing 1. No acute pulmonary abnormality.
+529,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing 1. No acute cardiopulmonary process.
+530,ateral chest x-ray showing No acute cardiopulmonary disease.,Lateral chest x-ray showing 1. No acute cardiopulmonary abnormalities.
+531,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing No active disease.
+532,ateral chest x-ray showing No acute cardiopulmonary findings.,Lateral chest x-ray showing No acute disease.
+533,al chest x-ray showing No active disease.,Frontal chest x-ray showing Normal chest No evidence of tuberculosis
+534,ateral chest x-ray showing No acute cardiopulmonary disease.,Lateral chest x-ray showing No acute cardiopulmonary disease.
+535,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing No acute cardiopulmonary finding.
+536,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing No acute cardiopulmonary abnormalities.
+537,ateral chest x-ray showing No acute cardiopulmonary abnormality.,"Lateral chest x-ray showing 1. Borderline enlargement of cardiac silhouette, otherwise no acute cardiopulmonary abnormality. No evidence for active TB."
+538,al chest x-ray showing No active disease.,Frontal chest x-ray showing No acute cardiopulmonary abnormality..
+539,ateral chest x-ray showing No acute cardiopulmonary abnormality. .,Lateral chest x-ray showing No acute cardiopulmonary findings. .
+540,al chest x-ray showing No acute cardiopulmonary findings. .,Frontal chest x-ray showing 1. XXXX opacities at the lateral left base. The appearance XXXX atelectasis.
+541,al chest x-ray showing No acute cardiopulmonary findings.,Frontal chest x-ray showing No acute pulmonary findings.
+542,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing No active disease.
+543,al chest x-ray showing No acute cardiopulmonary abnormalities.,Frontal chest x-ray showing Emphysema and mild medial right atelectasis. No acute process.
+544,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing No evidence of acute cardiopulmonary process.
+545,ateral chest x-ray showing No acute cardiopulmonary abnormalities.,Lateral chest x-ray showing 1. No acute radiographic cardiopulmonary process.
+546,ateral chest x-ray showing No acute cardiopulmonary findings.,Lateral chest x-ray showing 1. Improving bilateral interstitial edema pattern. 2. Small right-sided pleural effusion.
+547,ateral chest x-ray showing No acute disease.,Lateral chest x-ray showing No x-XXXX evidence of metastatic disease.
+548,ateral chest x-ray showing No acute cardiopulmonary abnormalities.,"Lateral chest x-ray showing 1. Lobulated contour of the right paratracheal stripe. This may represent a vascular structure or enlarged lymph node and could be evaluated further with chest CT. Otherwise, no acute intrathoracic abnormality."
+549,ateral chest x-ray showing No acute cardiopulmonary findings.,Lateral chest x-ray showing 1. No acute cardiopulmonary disease.
+550,ateral chest x-ray showing No acute cardiopulmonary abnormalities.,Lateral chest x-ray showing No acute cardiopulmonary finding.
+551,ateral chest x-ray showing 1. No evidence of active disease.,Lateral chest x-ray showing No acute disease.
+552,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing 1. No acute cardiopulmonary abnormality. 2. Emphysema.
+553,al chest x-ray showing No acute cardiopulmonary findings.,"Frontal chest x-ray showing Few small nodular opacities in the left upper lung. These small nodules are relatively dense, suggestive of chronic granulomatous disease. Comparison with an XXXX chest radiograph would be helpful to establish stability."
+554,ateral chest x-ray showing Hypoinflation with no visible active cardiopulmonary disease.,Lateral chest x-ray showing No significant change compared to prior. Bibasilar airspace disease may represent infection or mild edema.
+555,al chest x-ray showing No acute cardiopulmonary disease,Frontal chest x-ray showing No acute cardiopulmonary findings.
+556,al chest x-ray showing Cardiomegaly without heart failure.,Frontal chest x-ray showing Probable left midlung and left basilar atelectasis. Cardiomegaly.
+557,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing 1. No acute radiographic cardiopulmonary process.
+558,ateral chest x-ray showing No active disease.,Lateral chest x-ray showing No acute cardiopulmonary abnormality.
+559,ateral chest x-ray showing No acute cardiopulmonary abnormality. .,Lateral chest x-ray showing No acute cardiopulmonary abnormality identified.
+560,ateral chest x-ray showing No acute cardiopulmonary abnormalities.,Lateral chest x-ray showing 1. No acute cardiopulmonary disease.
+561,ateral chest x-ray showing No acute cardiopulmonary abnormality.,"Lateral chest x-ray showing Chest x-XXXX, lateral, and decubitus. 1. No acute cardiopulmonary abnormalities. 2. No evidence of pleural effusion. ."
+562,al chest x-ray showing No acute cardiopulmonary abnormalities.,Frontal chest x-ray showing Stable chest without acute cardiopulmonary abnormality.
+563,ateral chest x-ray showing No acute cardiopulmonary abnormalities.,Lateral chest x-ray showing Negative chest .
+564,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing 1. Clear lungs.
+565,al chest x-ray showing No acute cardiopulmonary findings. .,"Frontal chest x-ray showing Stable cardiomegaly. Improved aeration of lung bases with persistent left basilar effusion. Prominent interstitium, possibly due to mild volume overload. ."
+566,ateral chest x-ray showing No acute cardiopulmonary abnormalities.,Lateral chest x-ray showing No acute cardiopulmonary abnormality. .
+567,al chest x-ray showing No acute cardiopulmonary process.,Frontal chest x-ray showing No acute cardiopulmonary abnormality. .
+568,ateral chest x-ray showing No active disease.,Lateral chest x-ray showing 1. No acute cardiopulmonary disease.
+569,ateral chest x-ray showing No acute cardiopulmonary findings.,Lateral chest x-ray showing No acute cardiopulmonary abnormality.
+570,al chest x-ray showing No acute cardiopulmonary findings.,"Frontal chest x-ray showing 1. Left perihilar nodular opacity redemonstrated, appears dense, may be granulomatous, if desired one may consider CT for further characterization. 2. No acute cardiopulmonary abnormality. Redemonstrated azygos lobe. 3. No fracture visible. If clinical concern persists, consider dedicated rib series."
+571,"al chest x-ray showing 1. Cardiomegaly with mild interstitial edema. 2. Bibasilar airspace disease, bilateral pleural effusions, right greater than left.",Frontal chest x-ray showing 1. No acute cardiopulmonary abnormalities. 2. Multiple chronic changes as described above. .
+572,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing No acute thoracic XXXX.
+573,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing No acute cardiopulmonary finding.
+574,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing No focal lung infiltrates.
+575,"ateral chest x-ray showing Cardiomegaly, no acute pulmonary findings",Lateral chest x-ray showing Negative for acute cardiopulmonary process.
+576,al chest x-ray showing No active disease.,Frontal chest x-ray showing Old granulomatous disease. No acute pulmonary disease.
+577,al chest x-ray showing 1. No evidence of active disease.,Frontal chest x-ray showing No evidence of active disease.
+578,ateral chest x-ray showing No evidence of active disease.,Lateral chest x-ray showing No acute disease.
+579,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing 1. No acute intrathoracic abnormality.
+580,ateral chest x-ray showing No acute cardiopulmonary disease.,Lateral chest x-ray showing No acute pulmonary disease.
+581,ateral chest x-ray showing No acute cardiopulmonary disease.,Lateral chest x-ray showing No acute cardiopulmonary abnormality identified.
+582,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing COPD and old granulomatous disease.
+583,ateral chest x-ray showing Stable cardiomegaly without acute cardiopulmonary abnormality.,Lateral chest x-ray showing No acute cardiopulmonary abnormality..
+584,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing Hypoinflation with lingular focal atelectasis.
+585,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing 1. Right pleural effusion with adjacent atelectasis. 2. No definite findings of pneumonia.
+586,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing Normal chest radiograph.
+587,ateral chest x-ray showing No acute cardiopulmonary abnormalities.,"Lateral chest x-ray showing 1. Exam somewhat limited, costophrenic XXXX excluded. 2. Stable mild cardiomegaly. 3. Clear lungs."
+588,al chest x-ray showing No acute cardiopulmonary abnormalities.,Frontal chest x-ray showing Negative for acute abnormality.
+589,ateral chest x-ray showing No acute cardiopulmonary abnormalities.,Lateral chest x-ray showing No acute cardiopulmonary findings.
+590,al chest x-ray showing No acute cardiopulmonary findings. .,Frontal chest x-ray showing No acute cardiopulmonary process.
+591,ateral chest x-ray showing No acute cardiopulmonary findings.,Lateral chest x-ray showing No acute cardiopulmonary abnormality.
+592,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing Low lung volumes. No acute pulmonary disease.
+593,ateral chest x-ray showing No acute cardiopulmonary abnormalities.,Lateral chest x-ray showing No acute findings.
+594,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing 1. No acute findings. 2. Bibasilar subsegmental atelectasis or scarring. 3. Emphysema.
+595,al chest x-ray showing No acute cardiopulmonary findings. .,Frontal chest x-ray showing No acute cardiopulmonary abnormality identified.
+596,ateral chest x-ray showing No acute cardiopulmonary process.,"Lateral chest x-ray showing 1. Borderline cardiomegaly. 2. Age-indeterminate, XXXX chronic, XXXX deformity in the midthoracic spine."
+597,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing No acute cardiopulmonary findings.
+598,al chest x-ray showing No acute cardiopulmonary abnormality.,"Frontal chest x-ray showing Chronic emphysematous lung disease with mild bibasilar, right greater than left airspace disease/atelectasis."
+599,al chest x-ray showing 1. No acute pulmonary abnormality.,"Frontal chest x-ray showing Buckling deformity of the anterior cortex of the XXXX body. Fracture is possible, if high energy XXXX was localized to this region. Correlate with focal tenderness. XXXX chest, if warranted."
+600,ateral chest x-ray showing No acute findings.,"Lateral chest x-ray showing Cardiac XXXX projects over the right ventricle, without evidence of acute complication."
+601,ateral chest x-ray showing No acute cardiopulmonary abnormalities.,Lateral chest x-ray showing No active disease.
+602,al chest x-ray showing No acute cardiopulmonary findings. .,Frontal chest x-ray showing No acute cardiopulmonary process.
+603,al chest x-ray showing No acute cardiopulmonary findings. .,Frontal chest x-ray showing Low lung volumes with minimal left basilar atelectasis versus scarring.
+604,ateral chest x-ray showing 1. No acute pulmonary abnormality. 2. Mild cardiomegaly without pulmonary edema.,"Lateral chest x-ray showing 1. No acute abnormality of the chest. 2. XXXX deformities of T12 and L1, unchanged XXXX abdomen XXXX, XXXX abdomen XXXX, XXXX. 3. Fracture of right proximal humerus, incompletely evaluated. ."
+605,al chest x-ray showing No acute cardiopulmonary findings. .,Frontal chest x-ray showing No acute cardiopulmonary abnormality identified.
+606,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing 1. Cardiomegaly. 2. Pleural thickening along the inferior left lateral chest wall stable since the prior examination.
+607,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing Persistent cardiomegaly. Right midlung scar. No visible acute failure or pneumonia.
+608,al chest x-ray showing No acute cardiopulmonary abnormalities.,Frontal chest x-ray showing 1. No acute radiographic cardiopulmonary process.
+609,ateral chest x-ray showing No acute cardiopulmonary disease.,Lateral chest x-ray showing No x-XXXX evidence of pulmonary metastatic disease. Stable appearance of the chest.
+610,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing No acute cardiopulmonary abnormality.
+611,al chest x-ray showing No acute disease.,Frontal chest x-ray showing No acute cardiopulmonary abnormality.
+612,al chest x-ray showing No acute cardiopulmonary findings.,"Frontal chest x-ray showing 1. 8 mm left midlung nodule. XXXX since XXXX. Comparison to interval outside film would be helpful to assess the chronicity of this nodule. If old films are not available, or if this is XXXX, chest CT scan could be XXXX to better define this."
+613,ateral chest x-ray showing No acute cardiopulmonary findings.,Lateral chest x-ray showing No acute cardiopulmonary abnormality identified.
+614,al chest x-ray showing No acute cardiopulmonary abnormality. .,"Frontal chest x-ray showing Low lung volumes with mild, XXXX left basilar opacity, atelectasis versus infiltrate. ."
+615,ateral chest x-ray showing No acute cardiopulmonary abnormalities.,Lateral chest x-ray showing No acute cardiopulmonary finding.
+616,ateral chest x-ray showing No acute cardiopulmonary disease.,"Lateral chest x-ray showing No acute abnormality. Low volumes XXXX XXXX for the opportunity to assist in the care of your patient. If there are any questions about this examination please XXXX. XXXX XXXX, XXXX certified radiologist, at XXXX. ."
+617,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing Right basilar airspace disease.
+618,al chest x-ray showing No active disease.,Frontal chest x-ray showing No acute cardiopulmonary abnormality.
+619,al chest x-ray showing No acute cardiopulmonary abnormality.,"Frontal chest x-ray showing 1. No acute cardiopulmonary abnormalities. Specifically, no pneumothorax. 2. Fractures of the posterior left 4th, 5th, and 6th ribs, age-indeterminate."
+620,ateral chest x-ray showing No acute cardiopulmonary findings. .,"Lateral chest x-ray showing Abnormal opacity in the right lung base which may be compatible with pneumonia in the appropriate clinical setting. Recommend clinical correlation for infection and followup to resolution. Or, if clinical findings are not compatible with XXXX may be of XXXX."
+621,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing No acute cardiopulmonary findings. .
+622,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing No acute cardiopulmonary abnormalities. .
+623,al chest x-ray showing No acute cardiopulmonary abnormalities.,Frontal chest x-ray showing 1. Emphysema. 2. No acute cardiopulmonary abnormality.
+624,ateral chest x-ray showing No acute disease.,Lateral chest x-ray showing Normal chest No evidence of tuberculosis
+625,ateral chest x-ray showing No acute cardiopulmonary abnormality. .,Lateral chest x-ray showing 1. No acute pulmonary abnormality.
+626,al chest x-ray showing No evidence of active disease.,Frontal chest x-ray showing No acute cardiopulmonary disease. No evidence of pneumonia.
+627,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing Negative chest.
+628,al chest x-ray showing No acute cardiopulmonary abnormality.,"Frontal chest x-ray showing No acute findings, see above."
+629,al chest x-ray showing No acute cardiopulmonary abnormalities.,Frontal chest x-ray showing No acute cardiopulmonary findings.
+630,ateral chest x-ray showing No acute cardiopulmonary findings.,Lateral chest x-ray showing No acute cardiopulmonary findings. .
+631,al chest x-ray showing No acute cardiopulmonary abnormality. .,"Frontal chest x-ray showing 1. XXXX opacities in the left base, the appearance which XXXX scarring or atelectasis. Otherwise, clear."
+632,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing 1. Clear lungs.
+633,al chest x-ray showing No active disease.,Frontal chest x-ray showing Ectatic aorta. No acute cardiopulmonary abnormality.
+634,al chest x-ray showing No active disease.,Frontal chest x-ray showing 1. No acute radiographic cardiopulmonary process.
+635,al chest x-ray showing No acute cardiopulmonary findings.,Frontal chest x-ray showing No acute findings.
+636,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing Chronic lung changes without acute abnormality.
+637,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing No acute cardiopulmonary disease.
+638,al chest x-ray showing No acute cardiopulmonary findings,Frontal chest x-ray showing No acute cardiopulmonary findings. .
+639,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing Normal chest
+640,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing Hyperinflated but clear lungs.
+641,ateral chest x-ray showing No acute cardiopulmonary disease.,Lateral chest x-ray showing 1. Hyperexpanded lungs with flattened hemidiaphragm suggesting COPD. 2. Borderline enlarged heart. 3. No acute cardiopulmonary abnormality.
+642,ateral chest x-ray showing No acute cardiopulmonary findings. .,"Lateral chest x-ray showing No acute or active cardiac, pulmonary or pleural disease."
+643,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing Chronic parenchymal changes XXXX reflecting sequela of patient's known sarcoidosis. No acute disease.
+644,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing No significant change in right pneumothorax or pleural fluid.
+645,al chest x-ray showing No acute cardiopulmonary disease.,Frontal chest x-ray showing No acute cardiopulmonary abnormality.
+646,ateral chest x-ray showing No acute cardiopulmonary findings.,Lateral chest x-ray showing No active disease.
+647,ateral chest x-ray showing No acute cardiopulmonary findings.,Lateral chest x-ray showing No acute cardiopulmonary abnormalities.
+648,al chest x-ray showing No active disease.,Frontal chest x-ray showing No acute cardiopulmonary abnormality.
+649,al chest x-ray showing No active disease.,Frontal chest x-ray showing 1. Unremarkable chest radiograph. 2. Unchanged degenerative joint disease of the thoracic spine.
+650,al chest x-ray showing No acute cardiopulmonary disease.,"Frontal chest x-ray showing Stable appearance of chest without active process evident and without evidence of progression of disease in patient with history of Hodgkin's lymphoma . If one would like to discuss this case further, please XXXX. XXXX at XXXX. Thanks."
+651,ateral chest x-ray showing Cardiomegaly without acute cardiopulmonary abnormality.,Lateral chest x-ray showing Bibasilar airspace disease left greater than right with small effusions.
+652,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing No acute cardiopulmonary abnormalities. .
+653,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing 1. No acute pulmonary abnormality.
+654,ateral chest x-ray showing No acute cardiopulmonary findings.,Lateral chest x-ray showing 1. Chest. No acute cardiopulmonary findings. 2. Pelvis. No acute osseous findings.
+655,ateral chest x-ray showing No acute cardiopulmonary abnormalities.,Lateral chest x-ray showing 1. No acute cardiopulmonary abnormality.
+656,al chest x-ray showing No acute cardiopulmonary findings. .,Frontal chest x-ray showing No acute cardiopulmonary disease
+657,ateral chest x-ray showing No acute cardiopulmonary findings.,Lateral chest x-ray showing No acute cardiopulmonary abnormalities. .
+658,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing No acute cardiopulmonary disease.
+659,al chest x-ray showing 1. No evidence of active disease.,Frontal chest x-ray showing 1. Cardiomegaly and findings of prior asbestos exposure without interval acute cardiopulmonary findings.
+660,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing 1. Low lung volume study with minimal bibasilar atelectasis. Stable chest.
+661,ateral chest x-ray showing Stable cardiomegaly without acute cardiopulmonary abnormality.,Lateral chest x-ray showing Stable cardiomegaly and mild bilateral interstitial opacities which represent mild pulmonary edema.
+662,ateral chest x-ray showing No acute cardiopulmonary abnormalities.,"Lateral chest x-ray showing No acute cardiopulmonary findings. Specifically, no radiographic evidence of active tuberculosis."
+663,al chest x-ray showing No acute cardiopulmonary disease.,Frontal chest x-ray showing No evidence of active disease.
+664,ateral chest x-ray showing No acute cardiopulmonary abnormality. .,Lateral chest x-ray showing Post operative chest with no acute disease.
+665,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing No active disease. No evidence for cardiopulmonary injuries. Possibility of left rib 7 anterior nondisplaced fracture as described.
+666,al chest x-ray showing No acute cardiopulmonary findings. .,"Frontal chest x-ray showing No acute or active cardiac, pulmonary or pleural disease."
+667,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing No acute cardiopulmonary abnormalities.
+668,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing No acute cardiopulmonary findings.
+669,al chest x-ray showing 1. No evidence of active disease.,Frontal chest x-ray showing No acute pulmonary disease.
+670,ateral chest x-ray showing No acute cardiopulmonary findings.,Lateral chest x-ray showing No acute cardiopulmonary disease.
+671,al chest x-ray showing No acute cardiopulmonary abnormality. .,"Frontal chest x-ray showing Obscuration of the bilateral lung bases, XXXX combination of atelectasis, infiltrate, effusions."
+672,ateral chest x-ray showing No acute cardiopulmonary findings. .,"Lateral chest x-ray showing 1. Hyperinflated lungs, air trapping versus inspiratory XXXX. 2. Question mild right atrial enlargement, no findings to suggest pulmonary edema."
+673,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing 1. Clear lungs. No radiographic evidence of tuberculosis. 2. Stable scoliosis XXXX. .
+674,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing No active disease.
+675,al chest x-ray showing 1. No acute pulmonary abnormality.,Frontal chest x-ray showing 1. No acute cardiopulmonary disease. 2. Emphysematous changes 3. Retained contrast within the renal collecting XXXX.
+676,ateral chest x-ray showing No acute cardiopulmonary abnormality. .,Lateral chest x-ray showing Right mid lung mass with mild right paratracheal soft tissue may be secondary to associated lymphadenopathy. Further imaging with CT of the chest is recommended.
+677,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing No acute cardiopulmonary disease.
+678,"al chest x-ray showing Cardiomegaly, no acute pulmonary findings",Frontal chest x-ray showing Low lung volumes bilaterally with central bronchovascular crowding without focal cardiopulmonary disease. .
+679,"al chest x-ray showing Mild cardiomegaly, no acute pulmonary findings",Frontal chest x-ray showing Stable cardiomegaly and persistent minimal bibasilar atelectasis.
+680,ateral chest x-ray showing No acute cardiopulmonary findings. .,Lateral chest x-ray showing 1. No acute pulmonary abnormality.
+681,ateral chest x-ray showing No acute cardiopulmonary abnormalities.,Lateral chest x-ray showing Negative for acute cardiopulmonary abnormality.
+682,ateral chest x-ray showing No acute cardiopulmonary abnormality. .,"Lateral chest x-ray showing 1. Right subclavian catheter, distal tip in the region of the subclavian vein at the level of clavicular head. 2. Low lung volumes, with left lower lung atelectasis. ."
+683,ateral chest x-ray showing No acute cardiopulmonary findings.,Lateral chest x-ray showing 1. Left central venous catheter fracture at the level of the overlap of the clavicle and first rib. Distal catheter tip may be within the azygos vein. 2. Similar-appearing left midlung scarring.
+684,ateral chest x-ray showing No acute cardiopulmonary abnormalities.,Lateral chest x-ray showing 1. No acute intrathoracic abnormality.
+685,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing 1. Bibasilar airspace disease left greater than right. 2. Stable postsurgical changes with colonic interposition overlying the mediastinum.
+686,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing No active disease.
+687,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing No acute cardiopulmonary findings.
+688,ateral chest x-ray showing 1. No evidence of active disease.,Lateral chest x-ray showing No acute cardiopulmonary findings. .
+689,ateral chest x-ray showing No acute cardiopulmonary abnormality.,"Lateral chest x-ray showing No acute process. No definite pulmonary nodules are seen. If clinically indicated, further evaluation with CT of the thorax can be performed to identify a small nodule. Correlation with prior radiographs would be helpful to identify the location of the previously described nodule."
+690,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing 1. Round opacity measuring 2 cm in diameter within the posterior mediastinum. Recommend further evaluation of this nodule with chest CT with IV contrast.
+691,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing No acute cardiopulmonary findings.
+692,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing 1. No acute intrathoracic abnormality.
+693,ateral chest x-ray showing 1. No evidence of active disease.,Lateral chest x-ray showing There is no evidence of acute cardiopulmonary disease. .
+694,ateral chest x-ray showing No acute cardiopulmonary disease.,Lateral chest x-ray showing Left upper lobe pneumonia. Followup radiographs after appropriate therapy in 8-12 weeks are indicated to exclude an underlying abnormality.
+695,ateral chest x-ray showing No acute cardiopulmonary findings.,Lateral chest x-ray showing No acute cardiopulmonary abnormalities.
+696,ateral chest x-ray showing No acute cardiopulmonary findings.,Lateral chest x-ray showing No acute cardiopulmonary findings.
+697,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing No acute cardiopulmonary abnormality.
+698,ateral chest x-ray showing No acute cardiopulmonary findings. .,Lateral chest x-ray showing Unremarkable radiographs of the chest.
+699,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing No acute disease.
+700,ateral chest x-ray showing No acute cardiopulmonary findings.,Lateral chest x-ray showing 1. Left lower lobe air space opacities without significant change.
+701,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing No acute cardiopulmonary abnormality
+702,al chest x-ray showing No acute cardiopulmonary findings. .,Frontal chest x-ray showing No acute cardiopulmonary disease.
+703,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing No active disease.
+704,al chest x-ray showing No acute cardiopulmonary findings. .,Frontal chest x-ray showing No acute cardiopulmonary process. .
+705,ateral chest x-ray showing No acute cardiopulmonary abnormalities.,Lateral chest x-ray showing Normal chest
+706,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing No acute pulmonary disease.
+707,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing XXXX change COPD. No acute findings.
+708,al chest x-ray showing No acute cardiopulmonary abnormalities.,Frontal chest x-ray showing No acute cardiopulmonary process.
+709,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing No acute cardiopulmonary abnormalities.
+710,ateral chest x-ray showing No acute cardiopulmonary abnormalities.,Lateral chest x-ray showing Small right juxtahilar opacity may represent infiltrate in the setting of XXXX. Followup chest x-XXXX is recommended at an appropriate interval following treatment to document XXXX.
+711,al chest x-ray showing No acute cardiopulmonary disease.,Frontal chest x-ray showing 1. No evidence of active disease.
+712,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing No acute cardiopulmonary abnormalities.
+713,ateral chest x-ray showing No acute cardiopulmonary abnormalities.,Lateral chest x-ray showing No acute cardiopulmonary abnormality.
+714,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing Large right XXXX pneumothorax with associated complete collapse of the right lower lobe.
+715,ateral chest x-ray showing No acute findings.,Lateral chest x-ray showing No acute disease.
+716,al chest x-ray showing No acute cardiopulmonary abnormality. .,"Frontal chest x-ray showing Nonspecific interstitial prominence and basilar patchy airspace disease. Maybe due to pulmonary fibrosis, scarring and/or atelectasis. Comparison with outside previous films may be useful."
+717,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing No acute cardiopulmonary finding.
+718,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing No acute findings. Please note that fractures may not be demonstrated and consider additional imaging as clinically indicated.
+719,al chest x-ray showing No acute findings.,Frontal chest x-ray showing Mild XXXX XXXX opacities compatible with residual atelectasis/scarring.
+720,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing Mild stable cardiomegaly.
+721,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing Low lung volumes. Bibasilar atelectasis versus scarring.
+722,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing No acute cardiopulmonary abnormality.
+723,ateral chest x-ray showing No acute cardiopulmonary abnormalities.,"Lateral chest x-ray showing Subtle interstitial markings bilateral, may represent mild pulmonary edema or chronic interstitial changes."
+724,al chest x-ray showing No acute cardiopulmonary findings. .,Frontal chest x-ray showing No acute preoperative findings.
+725,ateral chest x-ray showing Emphysema without acute disease.,Lateral chest x-ray showing 1. Focal opacity in the right midlung zone worrisome for pneumonitis. 2. Mild pulmonary vascular congestion.
+726,ateral chest x-ray showing No acute cardiopulmonary findings.,"Lateral chest x-ray showing 1. Lobulated anterior mediastinal opacity on the lateral view, possibly consistent with a tortuous/ectatic thoracic aorta versus an anterior mediastinal mass. Contrast-enhanced XXXX examination would XXXX to further evaluate if clinically indicated. 2. Mild cardiomegaly with findings of chronic obstructive pulmonary disease."
+727,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing 1. Overall stable appearance of the chest suggesting pulmonary fibrosis.
+728,ateral chest x-ray showing No acute cardiopulmonary findings.,Lateral chest x-ray showing No acute disease.
+729,al chest x-ray showing No acute cardiopulmonary findings.,Frontal chest x-ray showing There is no evidence of acute cardiopulmonary disease. No radiographic evidence for active tuberculosis a .
+730,ateral chest x-ray showing No acute findings,Lateral chest x-ray showing No acute cardiopulmonary findings. .
+731,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing No acute cardiopulmonary abnormalities. .
+732,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing Findings concerning for interstitial edema or infection.
+733,ateral chest x-ray showing No acute cardiopulmonary findings.,Lateral chest x-ray showing Negative chest x-XXXX.
+734,al chest x-ray showing No acute cardiopulmonary abnormalities.,Frontal chest x-ray showing No radiographic evidence of acute cardiopulmonary disease
+735,ateral chest x-ray showing No acute pulmonary disease.,Lateral chest x-ray showing Suspected left hemidiaphragm paralysis. Consider a fluoroscopic evaluation for confirmation. Consider XXXX of the neck and nasopharynx with intravenous contrast if there is no known potential XXXX. Critical result notification documented through Primordial.
+736,al chest x-ray showing No acute cardiopulmonary abnormality. .,"Frontal chest x-ray showing 1. Prominence of left hilum which could be due to nodule/lymph node or superimposing blood XXXX. In the absence of prior studies for comparison, XXXX chest for further evaluation. Result notification XXXX Primordial."
+737,ateral chest x-ray showing No acute cardiopulmonary abnormalities.,Lateral chest x-ray showing No radiographic evidence of acute cardiopulmonary disease.
+738,ateral chest x-ray showing No acute findings.,Lateral chest x-ray showing No acute cardiopulmonary abnormality.
+739,al chest x-ray showing No acute cardiopulmonary abnormality.,"Frontal chest x-ray showing 1. Stable and adequately placed XXXX. 2. Prominent pulmonary vasculature, subpleural edema, and peribronchial cuffing suggestive of volume overload versus viral bronchiolitis."
+740,ateral chest x-ray showing No acute cardiopulmonary findings.,Lateral chest x-ray showing Normal chest
+741,ateral chest x-ray showing No acute cardiopulmonary abnormalities.,Lateral chest x-ray showing No acute radiographic cardiopulmonary process.
+742,ateral chest x-ray showing No acute cardiopulmonary findings.,Lateral chest x-ray showing 1. No acute cardiopulmonary abnormality.
+743,ateral chest x-ray showing No acute cardiopulmonary findings. .,Lateral chest x-ray showing No acute cardiopulmonary findings. .
+744,al chest x-ray showing No acute cardiopulmonary abnormalities.,Frontal chest x-ray showing No acute cardiopulmonary abnormalities.
+745,ateral chest x-ray showing No acute cardiopulmonary abnormalities.,Lateral chest x-ray showing Normal chest
+746,ateral chest x-ray showing No acute cardiopulmonary process.,Lateral chest x-ray showing 1. Low lung volume study with minimal subsegmental atelectasis in the lung bases. No acute pulmonary process.
+747,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing No acute disease.
+748,ateral chest x-ray showing No acute cardiopulmonary findings.,Lateral chest x-ray showing No acute cardiopulmonary abnormalities.
+749,ateral chest x-ray showing No acute cardiopulmonary disease.,Lateral chest x-ray showing No acute cardiopulmonary abnormality.
+750,al chest x-ray showing No acute cardiopulmonary findings.,Frontal chest x-ray showing No acute cardiopulmonary process.
+751,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing Negative for acute cardiopulmonary disease.
+752,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing No acute cardiopulmonary abnormality.
+753,ateral chest x-ray showing No acute cardiopulmonary findings.,Lateral chest x-ray showing No acute cardiopulmonary disease
+754,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing 1. No acute cardiopulmonary process.
+755,al chest x-ray showing No acute cardiopulmonary findings.,Frontal chest x-ray showing Emphysema without acute disease.
+756,al chest x-ray showing No acute cardiopulmonary abnormalities.,Frontal chest x-ray showing No active disease.
+757,ateral chest x-ray showing No acute cardiopulmonary abnormalities.,Lateral chest x-ray showing No acute disease.
+758,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing 1. No acute cardiopulmonary abnormality.
+759,al chest x-ray showing No acute cardiopulmonary findings.,"Frontal chest x-ray showing Stable chest x-XXXX, without acute cardiopulmonary findings."
+760,al chest x-ray showing No acute cardiopulmonary findings. .,Frontal chest x-ray showing No acute cardiopulmonary disease.
+761,ateral chest x-ray showing No acute cardiopulmonary findings.,Lateral chest x-ray showing No acute cardiopulmonary abnormality..
+762,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing Negative for acute cardiopulmonary abnormality.
+763,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing 1. No acute cardiopulmonary abnormality.
+764,ateral chest x-ray showing No active disease.,Lateral chest x-ray showing No active disease.
+765,al chest x-ray showing No acute cardiopulmonary abnormality.,"Frontal chest x-ray showing Low lung volumes, otherwise clear."
+766,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing Cardiomegaly with elevated right hemidiaphragms and no acute findings.
+767,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing Stable cardiomegaly without acute abnormality.
+768,al chest x-ray showing No acute cardiopulmonary abnormalities.,Frontal chest x-ray showing Mildly low lung volumes with XXXX atelectasis or scarring in the lung bases.
+769,al chest x-ray showing No acute cardiopulmonary abnormalities.,Frontal chest x-ray showing 1. No acute bony abnormalities. 2. No acute cardiopulmonary abnormalities.
+770,al chest x-ray showing No acute cardiopulmonary abnormalities.,Frontal chest x-ray showing No evidence of metastatic disease. .
+771,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing Normal chest No evidence of sarcoidosis.
+772,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing No acute cardiopulmonary finding.
+773,ateral chest x-ray showing No acute cardiopulmonary findings,Lateral chest x-ray showing No acute cardiopulmonary abnormality identified.
+774,al chest x-ray showing No acute cardiopulmonary process.,Frontal chest x-ray showing No acute cardiopulmonary disease. No evidence of metastatic disease to the lungs.
+775,al chest x-ray showing No active disease.,Frontal chest x-ray showing No acute cardiopulmonary process.
+776,al chest x-ray showing No acute cardiopulmonary findings. .,Frontal chest x-ray showing No acute cardiopulmonary abnormality. .
+777,ateral chest x-ray showing No acute cardiopulmonary findings.,Lateral chest x-ray showing Normal chest
+778,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing Negative chest
+779,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing 1. Chest. No change no active cardiopulmonary disease. No evidence for cardiopulmonary injury. 2. Pelvis and hips negative for recent bony injury.
+780,ateral chest x-ray showing No acute cardiopulmonary findings.,Lateral chest x-ray showing No acute cardiopulmonary process. .
+781,ateral chest x-ray showing 1. No evidence of active disease.,Lateral chest x-ray showing No acute cardiopulmonary abnormalities. .
+782,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing 1. No acute radiographic cardiopulmonary process.
+783,al chest x-ray showing No acute cardiopulmonary abnormalities.,"Frontal chest x-ray showing No acute cardiopulmonary process, specifically no evidence of active tuberculosis."
+784,ateral chest x-ray showing No acute disease.,Lateral chest x-ray showing No acute disease.
+785,ateral chest x-ray showing No active disease.,"Lateral chest x-ray showing No acute cardiopulmonary findings. Specifically, no radiographic evidence of tuberculosis."
+786,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing No acute cardiopulmonary abnormality.
+787,al chest x-ray showing 1. Continued elevation of the left hemidiaphragm. 2. No evidence of active disease.,"Frontal chest x-ray showing XXXX XXXX bilateral pleural effusions, right larger than left. Early interstitial show pulmonary edema."
+788,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing Negative for acute abnormality.
+789,ateral chest x-ray showing No acute disease.,Lateral chest x-ray showing No acute cardiopulmonary process.
+790,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing 1. Low lung volumes with mild cardiomegaly and scattered right basilar subsegmental atelectasis and scattered retrocardiac airspace opacities.
+791,al chest x-ray showing No acute cardiopulmonary findings.,Frontal chest x-ray showing Clear lungs. No acute cardiopulmonary findings.
+792,al chest x-ray showing No acute cardiopulmonary findings.,Frontal chest x-ray showing No acute cardiopulmonary abnormality.
+793,ateral chest x-ray showing No acute findings,Lateral chest x-ray showing Negative chest
+794,ateral chest x-ray showing No acute findings.,Lateral chest x-ray showing Emphysema. Large right upper lobe XXXX. Biapical scarring.
+795,al chest x-ray showing 1. No evidence of active disease.,Frontal chest x-ray showing No acute cardiopulmonary disease.
+796,ateral chest x-ray showing No acute cardiopulmonary disease.,Lateral chest x-ray showing Negative chest radiographs.
+797,ateral chest x-ray showing No acute cardiopulmonary disease.,Lateral chest x-ray showing No acute pulmonary disease.
+798,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing No acute cardiopulmonary abnormality.
+799,ateral chest x-ray showing No acute cardiopulmonary findings. .,Lateral chest x-ray showing 1. No acute pulmonary abnormality.
+800,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing No acute cardiopulmonary disease.
+801,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing Mild cardiomegaly.
+802,ateral chest x-ray showing No acute cardiopulmonary findings.,Lateral chest x-ray showing No acute cardiopulmonary process. .
+803,ateral chest x-ray showing No acute cardiopulmonary disease.,Lateral chest x-ray showing 1. No evidence of active cardiopulmonary disease. 2. No suspicious pulmonary nodules or masses.
+804,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing No acute cardiopulmonary abnormalities.
+805,"ateral chest x-ray showing 1. Cardiomegaly, vascular congestion and probable mild interstitial edema. 2. Bibasilar airspace disease, possibly atelectasis/airspace disease.","Lateral chest x-ray showing Cardiomegaly with central pulmonary vascular prominence and coarsened interstitial markings, concerning for interstitial pulmonary edema."
+806,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing No acute cardiopulmonary disease.
+807,al chest x-ray showing No acute cardiopulmonary abnormalities.,Frontal chest x-ray showing No acute disease.
+808,al chest x-ray showing No acute cardiopulmonary abnormality. .,Frontal chest x-ray showing Normal chest.
+809,ateral chest x-ray showing No acute cardiopulmonary abnormalities.,Lateral chest x-ray showing Large right XXXX pneumothorax with associated complete collapse of the right lower lobe.
+810,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing 1. Interval placement of a dual-lumen dialysis catheter with the distal tip projected over the right atrium. 2. Bibasilar airspace opacities and bilateral pleural effusions.
+811,al chest x-ray showing No acute cardiopulmonary abnormalities.,Frontal chest x-ray showing No acute cardiopulmonary process. No evidence of active tuberculosis.
+812,al chest x-ray showing 1. No acute pulmonary abnormality.,Frontal chest x-ray showing No acute pulmonary disease.
+813,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing No acute abnormality.
+814,ateral chest x-ray showing 1. No acute radiographic cardiopulmonary process.,Lateral chest x-ray showing 1. Evidence of previous granulomatous infection. 2. Bibasilar bandlike opacities. The appearance XXXX atelectasis/scar.
+815,ateral chest x-ray showing No acute cardiopulmonary findings.,"Lateral chest x-ray showing 1. No focal pulmonary consolidation or effusion. Minimal left basilar atelectasis. 2. Bilateral pulmonary nodules. These were not present on the prior study and may represent sequela of infection, but could represent neoplastic process. Correlation with history of primary malignancy is recommended. Further evaluation XXXX of the thorax could be performed, if clinically indicated."
+816,ateral chest x-ray showing No acute cardiopulmonary abnormalities.,Lateral chest x-ray showing No acute abnormality.
+817,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing 1. No acute cardiopulmonary abnormality.
+818,ateral chest x-ray showing No acute cardiopulmonary abnormalities.,Lateral chest x-ray showing Stable postop changes with stable mild cardiomegaly and normal lung vascularity.
+819,al chest x-ray showing No acute cardiopulmonary abnormality.,"Frontal chest x-ray showing 1. Borderline enlarged heart. 2. Tortuous/ectatic thoracic aorta. 3. Fracture of the distal right clavicle, better seen on today's radiograph of the shoulder."
+820,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing No acute cardiopulmonary abnormalities.
+821,al chest x-ray showing No acute cardiopulmonary abnormalities.,Frontal chest x-ray showing 1. No acute radiographic cardiopulmonary process.
+822,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing In view of the history findings are strongly suggestive of XXXX acute pneumonia with right-sided pleural effusion.
+823,ateral chest x-ray showing No acute cardiopulmonary findings. .,"Lateral chest x-ray showing Stable appearance of chest without active process evident and without evidence of progression of disease in patient with history of Hodgkin's lymphoma . If one would like to discuss this case further, please XXXX. XXXX at XXXX. Thanks."
+824,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing No acute cardiopulmonary abnormalities.
+825,ateral chest x-ray showing No acute cardiopulmonary abnormalities.,Lateral chest x-ray showing No acute cardiopulmonary finding.
+826,ateral chest x-ray showing No acute cardiopulmonary disease.,Lateral chest x-ray showing No acute process.
+827,ateral chest x-ray showing No acute cardiopulmonary abnormalities.,Lateral chest x-ray showing No acute cardiopulmonary abnormalities.
+828,ateral chest x-ray showing No acute cardiopulmonary findings. .,Lateral chest x-ray showing Mild blunted right costophrenic XXXX which could be due to XXXX effusion or scarring.
+829,al chest x-ray showing No acute cardiopulmonary abnormalities.,Frontal chest x-ray showing 1. No acute radiographic cardiopulmonary process.
+830,ateral chest x-ray showing No acute cardiopulmonary abnormalities.,"Lateral chest x-ray showing 1. Cardiomegaly with bilateral interstitial opacities. 2. Bilateral effusions and/or atelectasis, right worse than left."
+831,al chest x-ray showing No evidence of active disease.,Frontal chest x-ray showing 1. Stable appearance of the chest. No acute process.
+832,"ateral chest x-ray showing Cardiomegaly, no acute pulmonary findings",Lateral chest x-ray showing Negative for acute abnormality.
+833,al chest x-ray showing No acute cardiopulmonary abnormalities.,Frontal chest x-ray showing No radiographic evidence of acute cardiopulmonary disease.
+834,ateral chest x-ray showing 1. No evidence of active disease.,Lateral chest x-ray showing No acute cardiopulmonary inability. .
+835,ateral chest x-ray showing No acute cardiopulmonary abnormalities.,Lateral chest x-ray showing 1. No acute cardiopulmonary findings.
+836,al chest x-ray showing No acute cardiopulmonary findings.,Frontal chest x-ray showing No acute findings.
+837,ateral chest x-ray showing No active disease.,Lateral chest x-ray showing No acute cardiopulmonary abnormality.
+838,ateral chest x-ray showing No acute cardiopulmonary abnormality identified.,Lateral chest x-ray showing No evidence of acute thoracic XXXX. XXXX chest radiograph is recommended if XXXX is not XXXX.
+839,al chest x-ray showing No acute cardiopulmonary findings. .,"Frontal chest x-ray showing 1. There is abnormal separation of right XXXX XXXX, question very acute versus chronic injury. Correlate for focal pain. If indicated consider dedicated right shoulder films. 2. No acute cortical artery disease."
+840,ateral chest x-ray showing No acute cardiopulmonary disease.,Lateral chest x-ray showing No acute pulmonary disease.
+841,ateral chest x-ray showing No acute cardiopulmonary abnormalities.,Lateral chest x-ray showing 1. Right-sided chest XXXX in XXXX without demonstration of an acute cardiopulmonary abnormality. .
+842,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing 1. No acute radiographic cardiopulmonary process.
+843,ateral chest x-ray showing No acute cardiopulmonary abnormality. .,Lateral chest x-ray showing No acute cardiopulmonary findings
+844,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing No acute cardiopulmonary abnormality.
+845,al chest x-ray showing No active disease.,Frontal chest x-ray showing No acute cardiopulmonary abnormality.
+846,ateral chest x-ray showing No acute cardiopulmonary abnormalities.,Lateral chest x-ray showing 1. No acute intrathoracic abnormality.
+847,al chest x-ray showing No active disease.,Frontal chest x-ray showing No acute cardiopulmonary findings.
+848,ateral chest x-ray showing Cardiomegaly with bibasilar atelectasis.,Lateral chest x-ray showing 1. Technically limited exam. 2. Low lung volumes with XXXX bilateral pleural effusions. .
+849,al chest x-ray showing No acute cardiopulmonary disease.,Frontal chest x-ray showing No acute cardiopulmonary disease. .
+850,al chest x-ray showing No acute cardiopulmonary abnormality.,"Frontal chest x-ray showing 1. Mildly prominent interstitial markings, which could represent interstitial edema. 2. Mild blunting of the posterior sulcus, which could represent a small effusion."
+851,ateral chest x-ray showing No acute cardiopulmonary findings.,Lateral chest x-ray showing No acute disease.
+852,al chest x-ray showing No active disease.,Frontal chest x-ray showing No acute cardiopulmonary abnormality.
+853,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing No acute cardiopulmonary findings.
+854,ateral chest x-ray showing No acute cardiopulmonary findings.,"Lateral chest x-ray showing No acute cardiopulmonary abnormality. Specifically, no evidence of active tuberculous process."
+855,al chest x-ray showing No acute cardiopulmonary findings.,Frontal chest x-ray showing 1. No evidence of active disease.
+856,ateral chest x-ray showing No acute cardiopulmonary abnormality. .,"Lateral chest x-ray showing Chronic asymmetric elevation of the right hemidiaphragm with mildly increased right basilar airspace disease, atelectasis versus infiltrate. ."
+857,ateral chest x-ray showing No acute cardiopulmonary abnormality.,"Lateral chest x-ray showing 1. No acute cardiopulmonary abnormality. 2. Lucent lesion with thin sclerotic margin in the right humeral head. Considering the associated degenerative changes, a large geode is most XXXX. If further imaging is desired, dedicated views of the shoulder may be helpful for further characterization."
+858,al chest x-ray showing 1. No acute pulmonary abnormality.,Frontal chest x-ray showing No acute pulmonary disease.
+859,ateral chest x-ray showing No acute cardiopulmonary abnormalities.,Lateral chest x-ray showing No acute cardiopulmonary abnormality.
+860,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing No acute cardiopulmonary abnormalities.
+861,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing No pneumothorax. Similar appearance.
+862,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing Postsurgical changes of CABG without acute cardiopulmonary abnormality.
+863,ateral chest x-ray showing 1. No evidence of active disease.,Lateral chest x-ray showing No acute cardiopulmonary findings.
+864,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing Low lung volume exam demonstrates small amount of right basilar atelectasis. There is no acute consolidation or pneumothorax.
+865,ateral chest x-ray showing No acute cardiopulmonary disease.,Lateral chest x-ray showing No acute cardiopulmonary abnormality seen on chest x-XXXX. No pneumothorax.
+866,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing No acute cardiopulmonary abnormalities.
+867,ateral chest x-ray showing No active disease.,Lateral chest x-ray showing No acute cardiopulmonary disease. Critical result notification documented through Primordial.
+868,al chest x-ray showing No acute cardiopulmonary abnormalities.,Frontal chest x-ray showing No acute cardiopulmonary findings.
+869,ateral chest x-ray showing No evidence of active disease.,"Lateral chest x-ray showing 1. Clear lungs. 2. Several bilateral healing rib fractures, XXXX pathologic fracture."
+870,ateral chest x-ray showing No acute cardiopulmonary findings.,Lateral chest x-ray showing No acute cardiopulmonary findings.
+871,al chest x-ray showing No acute cardiopulmonary findings.,Frontal chest x-ray showing No acute disease.
+872,ateral chest x-ray showing No acute findings.,Lateral chest x-ray showing No acute findings
+873,ateral chest x-ray showing No acute cardiopulmonary findings.,Lateral chest x-ray showing No acute cardiopulmonary process. .
+874,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing XXXX prominence of the mediastinal contour near the right hilum possibly representing the ascending aorta or mediastinal lymphadenopathy. CT chest with contrast may be helpful for further evaluation.
+875,ateral chest x-ray showing No acute cardiopulmonary findings. .,"Lateral chest x-ray showing Interstitial markings bilaterally, pulmonary fibrosis, unchanged. ."
+876,ateral chest x-ray showing No acute cardiopulmonary abnormalities.,Lateral chest x-ray showing No active disease.
+877,ateral chest x-ray showing No acute cardiopulmonary abnormalities.,Lateral chest x-ray showing XXXX change COPD. Chronic right middle lobe scar and atelectasis. Pulmonary arterial hypertension.
+878,ateral chest x-ray showing No acute cardiopulmonary disease.,Lateral chest x-ray showing No acute cardiopulmonary findings.
+879,al chest x-ray showing No acute cardiopulmonary findings.,Frontal chest x-ray showing No acute changes from prior imaging.
+880,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing 1. No acute cardiopulmonary finding. 2. Hiatal hernia.
+881,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing 1. Stable left chest dual XXXX ICD/pacemaker. 2. Improved lung volumes without acute cardiopulmonary abnormality. .
+882,ateral chest x-ray showing No acute cardiopulmonary abnormality. .,Lateral chest x-ray showing No acute cardiopulmonary abnormality identified.
+883,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing Redemonstration of right chest wall mass compatible with patient's known breast carcinoma.
+884,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing Normal chest
+885,al chest x-ray showing No acute cardiopulmonary findings.,Frontal chest x-ray showing Findings of COPD and left base focal atelectasis.
+886,ateral chest x-ray showing No acute cardiopulmonary disease.,Lateral chest x-ray showing No acute cardiopulmonary disease.
+887,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing No acute cardiopulmonary abnormality.
+888,al chest x-ray showing No acute cardiopulmonary abnormality.,"Frontal chest x-ray showing Chronic emphysematous lung disease with mild bibasilar, right greater than left airspace disease/atelectasis."
+889,ateral chest x-ray showing No acute disease.,Lateral chest x-ray showing No evidence of active disease.
+890,al chest x-ray showing No acute cardiopulmonary abnormalities.,Frontal chest x-ray showing No acute cardiopulmonary findings.
+891,al chest x-ray showing No acute disease.,"Frontal chest x-ray showing Multiple bilateral calcified granulomas most XXXX sequela of granulomatous process. No focal infiltrate or consolidation. . If one would like to discuss this case further, please XXXX. XXXX at XXXX. Thanks."
+892,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing No acute cardiopulmonary process.
+893,al chest x-ray showing No acute cardiopulmonary findings.,Frontal chest x-ray showing 1. Negative for acute cardiopulmonary findings.
+894,ateral chest x-ray showing No acute cardiopulmonary findings.,Lateral chest x-ray showing No acute cardiopulmonary process.
+895,ateral chest x-ray showing No acute cardiopulmonary disease.,Lateral chest x-ray showing No acute findings
+896,al chest x-ray showing No acute cardiopulmonary disease.,Frontal chest x-ray showing No acute pulmonary disease.
+897,al chest x-ray showing 1. No evidence of active disease.,Frontal chest x-ray showing Old granulomatous disease and senescent changes but no acute pulmonary disease.
+898,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing Prominent transverse aorta. Otherwise clear.
+899,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing Low lung volumes with grossly clear lungs.
+900,ateral chest x-ray showing No acute cardiopulmonary findings.,Lateral chest x-ray showing 1. Right-sided chest XXXX in XXXX without demonstration of an acute cardiopulmonary abnormality. .
+901,ateral chest x-ray showing No acute cardiopulmonary abnormality. .,Lateral chest x-ray showing Normal chest.
+902,al chest x-ray showing No acute cardiopulmonary abnormalities.,Frontal chest x-ray showing No focal infiltrate.
+903,ateral chest x-ray showing No active disease.,Lateral chest x-ray showing No acute cardiopulmonary abnormality.
+904,al chest x-ray showing No acute cardiopulmonary process.,Frontal chest x-ray showing No acute cardiopulmonary abnormalities.
+905,ateral chest x-ray showing No acute cardiopulmonary findings.,Lateral chest x-ray showing No acute cardiopulmonary findings.
+906,ateral chest x-ray showing No acute cardiopulmonary abnormalities.,"Lateral chest x-ray showing Mild cardiomegaly with interstitial prominence, could represent mild interstitial edema, atypical infection, or chronic interstitial changes."
+907,al chest x-ray showing No acute cardiopulmonary abnormalities.,Frontal chest x-ray showing 1. No acute radiographic cardiopulmonary process.
+908,ateral chest x-ray showing No acute cardiopulmonary abnormality.,"Lateral chest x-ray showing Cardiomegaly with central pulmonary vascular prominence and coarsened interstitial markings, concerning for interstitial pulmonary edema."
+909,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing 1. Stable cardiomegaly with no focal airspace disease. 2. Stable moderate thoracic levoscoliosis and mild thoracolumbar dextroscoliosis. .
+910,al chest x-ray showing No acute cardiopulmonary disease.,"Frontal chest x-ray showing Streaky left retrocardiac airspace opacities, in the correct clinical setting this could represent a pneumonia."
+911,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing Normal chest
+912,al chest x-ray showing 1. No evidence of active disease.,Frontal chest x-ray showing No acute cardiopulmonary abnormality.
+913,al chest x-ray showing No acute cardiopulmonary findings.,Frontal chest x-ray showing No acute cardiopulmonary abnormality. .
+914,ateral chest x-ray showing No acute cardiopulmonary disease.,Lateral chest x-ray showing No acute process.
+915,al chest x-ray showing No active disease.,Frontal chest x-ray showing No acute cardiopulmonary abnormality.
+916,ateral chest x-ray showing No evidence of active disease.,Lateral chest x-ray showing No acute cardiopulmonary abnormality.
+917,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing Hypoinflation with cardiomegaly and pulmonary venous hypertension. Left mid lung focal atelectasis.
+918,al chest x-ray showing No acute cardiopulmonary process.,Frontal chest x-ray showing No acute cardiopulmonary findings.
+919,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing Low lung volumes. No acute cardiopulmonary abnormalities.
+920,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing No evidence of active disease.
+921,ateral chest x-ray showing No acute cardiopulmonary disease.,Lateral chest x-ray showing No acute cardiopulmonary findings.
+922,ateral chest x-ray showing No acute cardiopulmonary findings.,Lateral chest x-ray showing 1. No radiographic evidence of acute thoracic XXXX.
+923,al chest x-ray showing No acute pulmonary disease.,Frontal chest x-ray showing 1. Elevated left hemidiaphragm. No evidence of active disease.
+924,ateral chest x-ray showing No acute cardiopulmonary abnormality. .,Lateral chest x-ray showing Redemonstration of right chest wall mass compatible with patient's known breast carcinoma.
+925,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing No acute disease.
+926,al chest x-ray showing 1. No evidence of active disease.,"Frontal chest x-ray showing 1 cm nodule within the lung base, seen only on the lateral view. Consider imaging correlation with XXXX abdomen study, if available. ."
+927,ateral chest x-ray showing No acute cardiopulmonary process.,Lateral chest x-ray showing No evidence of acute cardiopulmonary process. Stable appearance of the chest.
+928,al chest x-ray showing No acute cardiopulmonary abnormalities.,Frontal chest x-ray showing No active disease.
+929,ateral chest x-ray showing No acute cardiopulmonary abnormality.,"Lateral chest x-ray showing 1. No acute cardiopulmonary finding. 2. Mild to moderate T10 vertebral body anterior XXXX deformity, XXXX from XXXX. Slight interval increase in XXXX loss of T11. Unchanged severe L1 XXXX deformity. If further imaging characterization is needed, recommend MRI. Findings will be conveyed to the ordering physician XXXX the Primordial communication XXXX."
+930,al chest x-ray showing No acute cardiopulmonary findings. .,Frontal chest x-ray showing No acute cardiopulmonary disease
+931,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing No focal lung infiltrates.
+932,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing Normal chest film.
+933,al chest x-ray showing No active disease.,Frontal chest x-ray showing 1. No acute radiographic cardiopulmonary process.
+934,al chest x-ray showing No acute cardiopulmonary abnormalities.,Frontal chest x-ray showing No acute cardiopulmonary findings.
+935,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing Question mild pulmonary vascular congestion in a patient with prosthetic aortic valve.
+936,ateral chest x-ray showing Cardiomegaly without heart failure.,Lateral chest x-ray showing No acute cardiopulmonary abnormality. Postsurgical changes as described above. .
+937,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing No acute cardiopulmonary disease
+938,ateral chest x-ray showing No acute findings. .,Lateral chest x-ray showing 1. Clear lungs. 2. Mildly blunted right costophrenic XXXX without definite pleural effusion.
+939,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing Suspected left hemidiaphragm paralysis. Consider a fluoroscopic evaluation for confirmation. Consider XXXX of the neck and nasopharynx with intravenous contrast if there is no known potential XXXX. Critical result notification documented through Primordial.
+940,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing Small to moderate right apical pneumothorax.
+941,ateral chest x-ray showing No acute cardiopulmonary abnormalities.,Lateral chest x-ray showing Small bilateral pleural effusions with a few scattered areas of patchy bilateral airspace disease.
+942,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing No active disease.
+943,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing 1. Cardiomegaly and pulmonary vascular congestion. 2. Eventration of right hemidiaphragm with basilar atelectasis.
+944,ateral chest x-ray showing No acute cardiopulmonary findings. .,Lateral chest x-ray showing No acute cardiopulmonary abnormality. .
+945,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing Left base atelectasis. Lungs otherwise clear. .
+946,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing Opacification of the right middle and lower lobes.
+947,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing Negative chest .
+948,ateral chest x-ray showing No acute cardiopulmonary disease.,Lateral chest x-ray showing No acute disease.
+949,ateral chest x-ray showing No acute cardiopulmonary disease.,Lateral chest x-ray showing No acute cardiopulmonary disease. .
+950,ateral chest x-ray showing No evidence of active disease.,Lateral chest x-ray showing No acute cardiopulmonary process.
+951,ateral chest x-ray showing No acute findings,"Lateral chest x-ray showing Increased size of density in the left cardiophrenic XXXX. Primary differential considerations include increased size of prominent epicardial fat, pericardial mass, pleural mass or cardiac aneurysm. CT chest with contrast is recommended. These findings and recommendations were discussed XXXX. XXXX by Dr. XXXX XXXX telephone at XXXX p.m. XXXX/XXXX. Dr. XXXX<XXXX>technologist receipt of the results."
+952,al chest x-ray showing No acute disease.,Frontal chest x-ray showing No lobar pneumonia
+953,ateral chest x-ray showing No acute disease.,Lateral chest x-ray showing Emphysema without superimposed pneumonia.
+954,ateral chest x-ray showing No acute cardiopulmonary abnormality.,Lateral chest x-ray showing Right middle lobe opacity which may represent a focal area of consolidation or atelectasis.
+955,al chest x-ray showing No acute disease.,Frontal chest x-ray showing No acute cardiopulmonary abnormality. .
+956,al chest x-ray showing No acute cardiopulmonary findings.,Frontal chest x-ray showing No evidence of active disease.
+957,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing Negative for acute abnormality.
+958,al chest x-ray showing No acute cardiopulmonary findings.,Frontal chest x-ray showing No acute pulmonary disease.
+959,ateral chest x-ray showing No acute cardiopulmonary abnormalities.,Lateral chest x-ray showing No acute cardiopulmonary findings.
+270,ateral chest x-ray showing No acute cardiopulmonary findings.,Lateral chest x-ray showing No acute preoperative findings.
+271,al chest x-ray showing No acute disease.,Frontal chest x-ray showing 1. No acute cardiopulmonary abnormality. 2. No evidence of active or changes from chronic tuberculosis infection.
+272,ateral chest x-ray showing No acute cardiopulmonary abnormality. .,Lateral chest x-ray showing No acute findings
+273,al chest x-ray showing No acute cardiopulmonary abnormalities.,Frontal chest x-ray showing No acute cardiopulmonary abnormality.
+274,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing Clear lungs.
+275,al chest x-ray showing No acute cardiopulmonary abnormality.,"Frontal chest x-ray showing 1. Mild stable cardiomegaly and central vascular congestion. 2. Low lung volumes with elevated left hemidiaphragm and basilar subsegmental atelectasis. 3. Extensive bilateral shoulder degenerative changes with subluxation/dislocation left shoulder, possibly chronic. Suggest clinical correlation."
+276,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing No acute cardiopulmonary abnormalities.
+277,ateral chest x-ray showing No evidence of active disease.,Lateral chest x-ray showing 1. No acute pulmonary disease. 2. Possible old injury or developmental anomaly partially T12-L1.
+278,al chest x-ray showing No acute cardiopulmonary abnormality.,Frontal chest x-ray showing No acute cardiopulmonary abnormalities.
